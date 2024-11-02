@@ -1,0 +1,100 @@
+CHAPTER VIII.  
+On the contingent habits; namely, opinion, human faith, doubt, and suspicion.
+
+PRECEPTS.
+
+Hitherto, there have been the necessary acquired habits; now follow the contingent ones, which are true in such a way that they can be false: hence, it is commonly said that it is not inconsistent for them to be false.  
+They are commonly called imperfect habits.  
+There are four of such: Opinion, Human Faith, Doubt, and Suspicion: of these, opinion and faith are determined habits; doubt and suspicion, undetermined.
+
+Opinion is a habit by which someone is inclined to assent to some non-necessary proposition, through probable means, or without it.
+
+Human Faith is that by which someone is inclined to assent to human authority or testimony.  
+It is called human, to differentiate it from divine, by which one is firmly inclined to assent to divine testimony.
+
+Doubt is that by which someone is inclined to an undetermined, or wavering, assent to some proposition.
+
+Suspicion is that by which someone is inclined to an undetermined, or wavering, assent regarding the fact or quality of some person.
+
+RULES.  
+
+I. Opinion is a wavering assent, relying on probable reasoning, or the clarity of a contingent proposition.  
+Even if opinion is not a certain and immovable assent, it is nevertheless rightly called a habit.  
+For opinion is either weak or strong.  
+The former is a disposition or an incipient habit; the latter is a habit strictly speaking, which is a quality that is difficult to move from the subject.  
+Moreover, whether opinion is considered as a disposition or as a habit, it is either mediate or immediate.  
+Mediate is that which relies on a probable means, such as, "The moon pales, therefore it will rain soon."  
+Immediate is that which relies on the evidence of the terms in a probable proposition, such as the assent to this proposition, "Every mother loves her children, a stepmother devours the children of her husband."  
+For such contingent propositions are so related that, upon hearing and explaining the terms, one assents.  
+Here, note in passing that personal or capricious opinions are dangerous; common opinions are not so.  
+The former are born in someone's mind; the latter are accepted by the common vote.  
+Of both, the saying is true: "A stubborn opinion does violence to the truth."
+
+II. Opinion can coexist with knowledge about the same thing, either in the same intellect or in different ones.  
+In the same intellect: as when a Geometer has knowledge about a line, and simultaneously has an opinion about its distinction from knowledge, that is, when he supposes that knowledge to be science.  
+But be careful not to take this regarding assent.  
+It cannot happen that opinion and knowledge exist simultaneously according to acts or assent: because the assent of knowledge is determined, that of opinion is undetermined; the two are contrary.  
+Meanwhile, opinion and knowledge can exist simultaneously according to habits; so that the same person can simultaneously have the habit of opinion and of knowledge about the same conclusion.  
+In different intellects: as when someone has assent to a conclusion through true demonstration, which another deduces from the same, or even from other principles, through a probable syllogism.  
+Thus, someone can know this proposition, "Man is a rational animal," through demonstration: another, however, may suppose this to be so.  
+But then the opinion does not arise from the proposition or object, but from the subject's understanding and the means of assent.  
+Hence, it further shows whether and how opinion can be about necessary things: namely, through the weakness of the person conceiving it.
+
+III. Virtual or radical apprehension pertains to the essence of opinion and human faith; actual apprehension, however, is accidental to both.  
+Here, apprehension is the fear that the part to which the intellect assents might be false or that its opposite might be true.  
+This apprehension is twofold: namely, virtual or radical, whereby one can fear that the contrary might be true or false; and actual, whereby one actively fears that the opposite part might be true, or false that to which the intellect assents.  
+The former is intrinsic to opinion, as well as to human faith; the latter is not.  
+For many indeed hold their opinions in such a way that they do not doubt about the matter, which is held as probable.  
+Thus, in universal philosophy, there are very many opinions approved by nearly the unanimous consensus of the entire school, which we follow without any actual apprehension.  
+Nevertheless, these opinions have an intrinsic virtual apprehension: because on behalf of the means of assent, it is not inconsistent for them to be false.  
+That being so, opinion is a probable or weak assent, about whose truth fear is held or can be held; because the intellect clings to it in such a way that the foundation for which it clings to it, which is either truth itself as probable by itself, or the reasoning through which it deduces the conclusion from premises, is not entirely solid and firm, but can fail from its own nature and be otherwise.
+
+IV. Human faith is a certain strong opinion.  
+Thus Aristotle declares in Topics, Book 4, Chapter 5, Section 60 and 61.  
+For indeed, human faith relies on authority, and in such a way that the intellect firmly adheres to a probable proposition.
+
+V. Doubt is the retention of reason due to an obstacle.  
+Doubt occurs when we hesitate due to the equality of contrary reasons because the weight of the reasons is balanced according to our opinion.  
+Hence, it is said to be a suspension or inhibition of assent due to the equilibrium of contrary reasons; or, as Aristotle speaks in Topics, Book 1, Chapter 6, due to the "equality of opposing arguments."  
+For indeed, doubt is the prevention of progress towards understanding, accompanied by the movement of inquiry.  
+It thus clings to what arises, nor does it proceed forward; but it clings in such a way that it revolves, sometimes seeking the truth, sometimes the causes of understanding.  
+Therefore, the mind is affected in two ways here, being suspended, as it were "in midair," and inclined.  
+Hence the philosopher says: "He who doubts is like one conquered, for he is always irrational."  
+Nevertheless, doubt can be useful or useless.  
+Useful doubt occurs when one doubts those things that are beyond our power of knowledge.  
+Concerning this, the philosopher says in Metaphysics, Book 3, Chapter 1, "It is rightly said that doubt is the beginning of wisdom," and in Book 3, Chapter 1, "In historical matters, they approach grasping the unknown poorly."  
+This is also where the saying: "A difficulty is the beginning of knowledge" originates.  
+Useless doubt is when one doubts everything, even certainties; for example, the most common principles: like if someone denies that fire burns.  
+Such a person should be tormented by fire until they admit that fire burns.  
+This was the nature of the doubt of the Academics, not those who were genuine and true Platonists, but the Sophists, who claimed all things to be uncertain because things are changeable, and senses and reason are deceptive, and thus asserted that assent to all things should be withheld; hence, they were called "ephectics:" and the "Academics' way" became proverbial.  
+Among them was one who, being beaten by a household servant intending to demonstrate this vanity to his master, claimed it wiser to deny and condemned the truth; about whom there is this witty verse:
+    Among those to whom wisdom once seemed close at heart,  
+        You bring forth your name, Academe, your flock.  
+    Declaring nothing certain in all matters,  
+        He proclaimed belief in the senses to be doubtful.  
+    A servant of one from such a sect, having often heard that,  
+        Considers his master devoid of mind.  
+    Seeing that this doctrine was accepted by many,  
+        He prepares to expose the fool's folly in a foolish manner.  
+    The master orders the table to be set, the servant spreads straw;  
+        The master complains, falls; the servant remarks nothing seriously.  
+    He beats the master, the exhausted master cries, "What, rascal, are you doing?  
+        Are you striking your master?" "I do not even know that you are my master," says the servant.  
+    "There is error in the senses, you err: I am not your servant,  
+        Nor are you my master: there is error in the senses.  
+    We are deceived by appearances: for what seems hard to you  
+        Is soft upon my limbs.  
+    I comprehend your doctrine, opinion deceives minds,  
+        What is uncertain cannot truly bear a name."  
+    "Stop," the master cries: "You are too certain in your blows:  
+        True strikes have numbed my head.  
+    I regret following a variable doctrine before,  
+        And I confess belief in the senses to be certain.  
+    An Academic must be handled thus, and taught by this art,  
+        Lest in the world he knows nothing for certain."
+
+VI. Suspicion has as its object some deed or attribute of a person.  
+In this way, it differs from doubt, which has as its object some proposition, not a person, except with regard to some statement.  
+Similarly, suspicion, which directly concerns a deed or the quality of a person, can indirectly concern a proposition: as when critics point out suspicions about corrupt passages.  
+Moreover, suspicion is either just and legitimate, the effect of which is caution, or rash and illegitimate, which does not befit a good man.  
+Of this latter, it is commonly said: "Suspicion does not expel but is expelled."

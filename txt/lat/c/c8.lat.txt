@@ -1,0 +1,100 @@
+CAPVT VIII.  
+De habitibus contingentibus; puta opinione, fide humana, dubitatione, & suspicione.  
+
+PRÆCEPTA.
+
+Hucusque fuerunt habitus acquisiti necessarij: sequuntur contingentes, qui ita sunt veri, ut falsi esse possint: unde dici solet, quod illis non repugnet subesse falsum.  
+Dicuntur vulgo habitus imperfecti.  
+Tales sunt quatuor: Opinio, Fides humana, Dubitatio & Suspicio: e quibus opinio & fides sunt habitus determinati; dubitatio & suspicio, indeterminati.  
+
+Opinio est habitus, quo quis inclinatur ad assensum alicuius propositionis non necessariae, per medium probabile, aut sine illo.
+
+Fides humana est, qua quis inclinatur ad assentiendum authoritati sive testimonio humano.  
+Dicitur humana, ad differentiam divinae, qua inclin amor ad assentiendum firmiter testimonio divino.
+
+Dubitatio est, qua quis inclinatur ad assensum indeterminatum, sive pendulum, alicuius propositionis.
+
+Suspicio est, qua quis inclinatur ad assensum indeterminatum, sive pendulum, circa factum vel qualitatem alicuius personae.
+
+REGVLÆ.  
+
+I. Opinio est assensus pendulus, nitens ratione probabili, vel propositionis contingentis claritate.
+Etiam si opinio non sit assensus certus & immobilis: recte tamen appellatur habitus.  
+Nam opinio est vel infirma, vel firma.  
+Illa est dispositio sive habitus inchoatus; ista est habitus stricte dictus, qui est qualitas difficile mobilis a subiecto.  
+Est autem opinio, sive consideretur ut dispositio, sive ut habitus, vel mediata, vel immediata.  
+Mediata est, quae nititur medio probabili: ut, Luna pallet. Ergo brevi pluet.  
+Immediata est, quae nititur evidentia terminorum, in propositione probabili: qualis est assensus huius propositionis, Omnis mater diligit liberos, Noverca edit liberos mariti.  
+Huiusmodi enim propositiones contingentes ita sunt comparatae, ut auditis & expositis terminis, assentiatur.  
+Hic obiter nota opiniones pectorales, sive cerebrinas, esse periculosas; opiniones communes non item.  
+Illae sunt in cerebro alicuius natae; istae communi calculo receptae.  
+De utrisque verum est illud: Opinio pertinax vim facit veritati.
+
+II. Opinio simul esse potest cum scientia de eadem re, vel in eodem intellectu, vel in diversis.
+In eodem intellectu: ut cum Geometra habet scientiam de linea, & simul habet opinionem de distinctione eius a scientia, id est, cum opinatur, scientiam illam esse scientiam.  
+Sed cave hoc accipias de assensu.  
+Fieri enim non potest, ut opinio & scientia simul sint secundum actus sive assensus: quia assensus scientiae est determinatus, opinionis indeterminatus: quae duo sunt contraria.  
+Interim opinio & scientia possunt esse simul secundum habitus; ita ut idem homo possit simul habere habitum opinionis & scientiae de eadem conclusione.  
+In diversis intellectibus: ut cum aliquis habet assensum alicuius conclusionis per veram demonstrationem, quam alter deducit ex iisdem, vel etiam in aliis principiis, per syllogismum probabilem.  
+Ita aliquis hanc propositionem, Homo est animal risibile, scire potest per demonstrationem: alius vero potest opinari hoc ita esse.  
+Sed tum opinio non est ex parte propositionis sive obiecti, sed ex parte intelligentis, & medii assentiendi.  
+Unde porro patet, an & quomodo opinio possit esse rerum necessariarum: scil. imbecillitate concipientis.
+
+III. Formido virtualis, sive radicalis, pertinet ad essentiam opinionis & fidei humanae: actualis vero, utrique est accidentalis.
+Formido hic est timor, ne falsa sit pars, cui assentitur intellectus, aut vera opposita. 
+Formido ista est duplex; videlicet virtualis, seu radicalis, quam quis potest timere, ne contrarium sit verum vel falsum: & actualis, qua quis ipso actu timet, ne opposita pars sit vera, aut falsa illa, cui intellectus assentitur. 
+Prior illa est intrinseca opinioni, ut & fidei humanae; posterior non item. 
+Multi siquidem ita opinantur, ut non ambigant de re illa, quae probabiliter tenetur. 
+Sic in universa philosophia permultae sunt opiniones, communi ferme totius scholae consensu approbatae, quas sequimur absque ulla formidine actuali.
+His tamen opinionibus intrinseca est formido virtualis: quia ex parte medij assentienti non repugnat subesse falsum. 
+Quae cum ita sint, opinio est assensus probabilis sive debilis, de cujus veritate timetur, vel timeri potest; quia sic ei adhaeret intellectus, ut fundamentum, propter quod ei adhaeret, quod est aut veritas ipsa per se probabilis, aut ratio per quam deducit conclusionem ex praemissis, non sit omnino solidum & firmum, sed quod ex propria natura deficere potest, & aliter se habere.
+
+IV. Fides humana est vehemens quaedam opinio.
+Sic Aristoteles pronuntiat 4. topic. cap. 5. loc. 60. & 61. 
+Fides siquidem humana innititur auctoritati, & quidem ita, ut intellectus adhaerescat firmiter propositioni probabili.
+
+V. Dubitatio est retentio rationis ex obice.
+Dubitatio est, cum haeremus ob contrariarum rationum aequalitatem, quia sunt paria rationum momenta, ex nostra opinione.
+Unde dicitur esse suspensio seu cohibitio assensionis propter aequilibrium contrariarum rationum; vel, ut Aristoteles loquitur 1. Top. cap. 6. propter ἰσότητα τῶν ἐναντίων λογῶν.
+Dubitatio siquidem est prohibitio progressionis ad intelligendum, cum motu disquisitionis.
+Haeret igitur circa id, quod occurrit, nec transmittit; sed ita haeret, ut circumvertatur, quaeratique aliquando veritatem, aliquando causas intellectionis.
+Duplici ergo modo hic affectus est animus, suspensus videlicet & quasi μετέωρος, & propensus.
+Hinc philosophus ait: Qui dubitat, vincito est similis, ἀεὶ γὰρ ἄλογος.
+Ceterum dubitatio est utilis, vel inutilis.
+Dubitatio utilis est, quando de iis dubitatur, quae sunt supra nostram potestatem scientiam.
+De hac ait philosophus 3. metaph. cap. 1. ὀρθῶς ἔλεγεν ὡς ἀρχὴ ἐστὶ φιλος, recte dubitare velut initium sapientiae, & 3. metaph. cap. 1. ἐν τοῖς ἱστορικοῖς βελοποῦσις προςγυς το ληπτρικὸν κακῶς. 
+Quo facit & illud: ἡ ἀπορία ἐστὶν ἀρχὴ τῆς ιδόσεως. 
+Dubitatio inutilis est, quando de omnibus itemque de certis dubitatur; puta de communissimis principiis: ut si quis neget ignem urere.
+Hic tandiu est torquendus igni, donec fateatur ignem urere. 
+Talis fuit dubitatio Academicorum, non γνησίων illorum, qui sunt vere Platonici, sed Sophistarum, qui omnia affirmabant esse incerta, quod res sint mutabiles, & sensus ac ratio fallantur, itaque de omnibus assensionem cohibendam; unde dicti sunt ἐποχικοι: & ἡ τῶν ἁκαδημαϊκῶν abiit in proverbium. 
+Ex horum numero fuit, qui a servo domestico verberibus affectus, quod vanitatem degmatris istiius ostenturus esset domino, sapere dicit rectius, & τὸ ἀληθοὲξω improrbat; de quo lepidum est hoc carmen:
+    Inter eos, quibus est olim sapientia cordi
+        Visa, refers nomen, grex Academe, tuum.
+    Omnibus in rebus certi nihil iste professus,
+        Dixerat ambiguam sensibus esse fidem.
+    Tali de secta cuiusdam servus, ut illud
+        Saeplius audis, heruam mente carere putat.
+    Denique dogma videns id pluribus esse receptum,
+        Stultitiam stulto prodere more parat.
+    Mandat herus mensam sterni, sert stramina servus;
+        Iurgat herus, cadit; nil serio, servus ait.
+    Pulſat herum, lassus clamat, quid, verbero, caeptas?  
+        Cudis herum? Nec herum iam scio, servus ait.  
+    Sensibus error inest, erras: non sum tibi servus,  
+        Nec mihi tu dominus: sensibus error inest.  
+    Ludimur objectis: nam quae tibi dura videntur  
+        Tribula, mollia sunt artubus illa meis.  
+    Dogma tuum teneo, deludit opinio mentes,  
+        Certum res anceps nomen habere nequit.  
+    Desine, clamat herus: nimio tu certus es ictu:  
+        Diminuiêre meum verbera certa caput.  
+    Damno quod ante fui variabile dogma secutus,  
+        Et fateor certam sensibus esse fidem.  
+    Hac Academicus est tractandus, & arte docendus,  
+        Solus in hoc certum ne nihil orbe sciat.
+
+VI. Suspicio pro obiecto habet personā aliquod factum, vel adiunctum.
+Hoc modo differt à dubitatione, quae pro obiecto habet propositionem aliquam, non autem personam, nisi ratione alicuius sententiae.  
+Et similiter suspicio, quae directe respicit factum aut qualitatem personae, indirecte potest respicere propositionem: ut cum Critici edunt suspiciones de locis corruptis.  
+Ceterum suspicio est vel iusta & legitima, cuius effectum est cautela: vel temeraria & illegitima, quae non cadit in virum bonum.  
+De hac vulgo dicitur: Suspicio non pellit, sed pellitur.
