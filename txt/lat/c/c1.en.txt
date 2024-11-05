@@ -8,14 +8,15 @@ Its two highest chapters are: first, concerning the preliminary knowledge of all
 
 The preliminary knowledge of all disciplines is an anticipated instruction, preparing the mind of the learner for an easier understanding of the disciplines.
 Its parts are twofold: first, concerning the nature of disciplines, and second, concerning the study of them.
-The nature of disciplines is known by their variety and firmness.
 
-The variety of disciplines is regarding the habits of the mind, and the kinds of disciplines themselves.
-There is Hexilogy: here, Technology.
+The nature of disciplines is known by their differences and similarities.
+
+The differences of disciplines is regarding the habits of the mind, and the kinds of disciplines themselves.
+In the former is Hexilogy, in the latter, Technology.
 
 Hexilogy is the first of the four preliminary disciplines, concerning intellectual habits.
 Intellectual habits are qualities that determine the intellect to more easily perceive their objects, that is, all intelligible things.
-They are called in the same sense habits of the mind, "qualities of the intellect" and intellectual virtues.
+They are called in the same sense habits of the mind, "qualities of the intellect", and intellectual virtues.
 
 These habits are considered in general and in specific terms.
 One part of Hexilogy is general, the other is special.
@@ -29,7 +30,6 @@ The causes of intellectual habits are either above man, such as the grace of God
 RULES.
 
 I. Encyclopaedia is the system of all systems, by which things worthy of man are explained in a certain method.
-
 Encyclopaedia is a Greek word.
 For ἐγκυκλοπαιδεία is said as if ἐγκύκλιος παιδεία, that is, a cycle of disciplines, which used to be reckoned by the number of seven liberal arts.
 Thus Quintilian in book 1, chapter 10, teaching that knowledge of many arts is necessary for the future orator.
@@ -44,8 +44,8 @@ Also in these two mnemonic verses:
 And thus indeed this word is strictly taken.
 Broadly, it signifies the structure of all disciplines: as in that of Vitruvius, book 1, chapter 1.
 For when they observed that all disciplines have a connection and communication of things among themselves, it was easily believed that nature could learn such a vast number of teachings.
-For the encyclios discipline, like one body, is composed of these members.
-And in the preface of book 6, concerning his parents: They took care to educate me in art, and in that which cannot be approved without literature and the cycle of all disciplines.
+For the encyclopedic discipline, like one body, is composed of these members.
+And in the preface of book 6, concerning his parents: "They took care to educate me in art, and in that which cannot be approved without literature and the cycle of all disciplines."
 Similarly, Athenaeus towards the end of book 5 uses this word: "encýclios and the cycle of education."
 And in book 13 concerning Epicurus: "he neglects the cycle of education."
 But in the preface concerning the poet Monius, he takes it strictly: "in which he teaches the cycle of education with expertise."
@@ -70,7 +70,6 @@ Thus these two are given in the Encyclopaedia, as if in an idea and a theatre.
 Hence there is the Theatre of Metaphysics, Logic, Grammar, and the remaining disciplines.
 
 II. All learning is from preliminary knowledge.
-
 Correctly, Aristotle states in Ethics 6, chapter 4: "Understanding consists in knowing all things."
 And again, in Posterior Analytics 1, he attests that all learning proceeds from previous knowledge.
 Vives, Zabarella, and Keckermann call this preliminary knowledge Præcognita.
@@ -84,14 +83,12 @@ Furthermore, systematic præcognita are general or special. The former are those
 In this volume, we have combined general and special præcognita; both because the law of method demanded that general ones be thoroughly and thusly explained at once and simultaneously; and because it would be tedious and useless to repeat many things if their præcognita had to be prefixed to each discipline individually.
 
 III. Preliminary knowledge of disciplines explains two things: the nature and the study of the disciplines.
-
 The main division of the Encyclopaedia is that which is completed by preliminary knowledge and systematics.
 Preliminary knowledge is nothing but a diligent preparation which precedes the nature and study of the disciplines.
 For more cannot be said in advance about the disciplines.
 Therefore, one can compare Præcognita with the alphabet; systematics with the digests, as they are called, or with the volumes themselves.
 
 IV. Preliminary knowledge of disciplines relates to systematics as a vestibule to a house.
-
 For Zabarella, preliminary knowledge is both directive and active.
 The former is the definition of the name, the latter of the thing.
 Both pertain to the substance of the art and faculty.
@@ -105,7 +102,6 @@ It is pre-known from Hexilogy, Technology, and Archelogy: it is known from the d
 However, Zabarella considers the definition of the thing as active preliminary knowledge comparatively because, for one who holds the definition of the discipline, it is not so much knowledge that has been acquired but preliminary knowledge: since the knowledge of the discipline turns on this, namely, that we hold all its precepts.
 
 V. Hexilogy must explain the foundations of internal disciplines and their highest kinds; likewise the habitual principles that guide the learner, indeed even the teacher.
-
 Let us consider everything.
 First indeed, a discipline is internal or external.
 The former is also called habitual and conceived; the latter is called systematic and enunciated.
@@ -139,7 +135,6 @@ For in the learner, some imperfection is discerned, which is called indifference
 In the discipline, however, there is the perfection, by which it becomes a habit that removes that indifference.
 
 VI. Intellectual habits originate from four causes: namely, from the grace of God, nature, teaching, and exercise.
-
 In schools, it is commonly taught according to the general opinion of philosophers that three things are required to acquire a habit: impulse, learning, and practice; that is, nature, teaching, and exercise, as seen in Aristotle’s Rhetoric.
 Hence it is elegantly said in schools: Nature begins, art directs, use or exercise perfects.
 And again: Nature makes one able, art makes one facile, exercise makes one stable or proficient.
