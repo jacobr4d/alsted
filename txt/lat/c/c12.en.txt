@@ -1,0 +1,91 @@
+CHAPTER XII.
+
+On the Possession and Exercise of Intellectual Habits.
+
+PRECEPTS.
+
+What remains is the possession and exercise of the habits enumerated thus far.
+
+The possession (κτῆσις) of these habits is either simple or conjunct.
+
+Simple possession is that by which individual habits are possessed; conjunct, by which multiple are possessed.
+
+The exercise (χρῆσις) of habits is that by which they produce their operations.
+
+RULES.
+
+I. The possession of habits is analogous to acquisition.
+In any habit, these three things are observed: acquisition, possession, and exercise.
+The acquisition of intellectual habits has been explained in the preceding doctrine.
+For innate habits depend on nature; acquired ones are obtained either by one's own effort or by the benefit of another, namely, God infusing them, and teachers instructing.
+Possession corresponds to acquisition.
+Therefore, since habits are acquired either individually, separately, or in combination, their possession is likewise simple or conjunct, and indeed in this way.
+Individual habits are possessed such that a simple denomination arises from them: for example, from wisdom, they are called wise; from prudence, prudent; from art, artisans, etc.
+Conjunct habits are possessed such that a composite denomination arises from them.
+Thus, wisdom is joined with prudence, liberal art with non-liberal, etc., and thereby learned men are called prudent and artisans.
+Moreover, intellectual habits are not only joined among themselves, but also with moral habits and certain other adjuncts, whether good or bad, in this manner: And thus indeed are habits possessed, either individually or conjointly.
+Both are moreover possessed in an excellent or diminished degree: ordinarily or extraordinarily: exemplarily or commonly, etc.
+
+II. The exercise of habits is analogous to possession.
+As is the acquisition of habits, so is possession; and as is possession, so is exercise.
+Thus, habits are exercised either individually or conjointly; and both commendably, or otherwise; exemplarily, or commonly, etc.
+Furthermore, the exercise of habits is sometimes internal, sometimes external; sometimes easier, sometimes more difficult, etc.
+This matter is discussed throughout this Encyclopedia.
+
+CONCLUSION OF THE HEXILOGY.
+Thus stands the Hexilogy, the first part of the Cyclopedic Alphabet: 
+from which must be sought the true kinds of habitual disciplines, namely wisdom, knowledge, prudence, and art; 
+then the sources of true cognition and good action, namely intelligence and synderesis; 
+finally, the manner by which people proceed in cognition, which is threefold; 
+namely, necessarily true, or apodictic, contingently true, or dialectic, and finally false, or sophistic.
+
+Learning is associated with
+├── Some External 
+│   ├── Good, which adorns no less than a beautiful woman does the world. Thus, some good is joined to learning
+│   │   ├── Of the Body: such as strength, beauty, health. Hence learned athletes, boxers, beauties.
+│   │   └── Of Fortune: such as status. Hence learned princes.
+│   └── Evil & inconvenience, which, although it interferes with learning by itself, makes the wise person more commendable when they overcome these impediments through the pursuit of virtue. Thus, some evil is joined to learning
+│       ├── Of the Body: such as
+│       │   ├── Poor health. Hence learned invalids.
+│       │   └── Weakness of sex. Hence learned women.
+│       └── Of Fortune: such as poverty. Hence those who became learned despite being poor.
+└── An Internal Habit
+    ├── Good
+    │   ├── Intellectual
+    │   │   ├── Liberal. Hence Philosopher-theologians, Philosopher-physicians, etc.
+    │   │   └── Illiberal. Hence learned men also renowned in mechanics.
+    │   └── Moral. Hence learned men who are legislators, counselors, magistrates, military leaders.
+    └── Bad; which, although it neither adds to nor detracts from the perfection of learning, often considerably inconveniences practice. Hence, a bad habit is joined to learning.
+        ├── Theoretical: such as error.
+        └── Practical
+            ├── Ethical: such as wickedness.
+            │   ├── Ineptitude. Hence learned men inept in economy, politics, etc.
+            │   └── Wickedness. Hence learned men who are greedy, impious, tyrannical, etc.
+            └── Mechanical. Hence learned men inept in mechanics.
+
+Outline of Hexilogy
+
+ENCYCLOPÆDIA handed down by tradition
+    ├── Four Prerequisites; of which H­E­X­I­L­O­G­I­A is
+    │   ├── General; about intellectual habits
+    │   │   ├── Necessity & causes. ch. 1.
+    │   │   └── General divisions, number XIII. ch. 2.
+    │   └── Special; about intellectual habits
+    │       ├── Species: some are of life
+    │       │   ├── Present and those are
+    │       │   │   ├── True
+    │       │   │   │   ├── innate. ch. 3.
+    │       │   │   │   └── Adventitious
+    │       │   │   │       ├── Acquired
+    │       │   │   │       │   ├── Necessary
+    │       │   │   │       │   │   ├── Theoretical
+    │       │   │   │       │   │   │   ├── Wisdom. ch. 4.
+    │       │   │   │       │   │   │   └── Science. ch. 5.
+    │       │   │   │       │   │   ├── Practical. ch. 6.
+    │       │   │   │       │   │   └── Poetic. ch. 7.
+    │       │   │   │       │   └── Contingent. ch. 8.
+    │       │   │   │       └── Infused. ch. 9.
+    │       │   │   └── False. ch. 10.
+    │       │   └── Future. ch. 11.
+    │       └── Possession & exercise. ch. 12.
+    └── Systems of disciplines.

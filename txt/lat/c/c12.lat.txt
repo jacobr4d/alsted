@@ -1,0 +1,91 @@
+CAPVT XII.
+
+De habituum intellectualium possessione & exercitatione.
+
+PRÆCEPTA.
+
+Superest habituum hactenus enumeratorum possessio, & exercitatio.
+
+Possessio (κτῆσις) habituum istorum est simplex, vel conjuncta.
+
+Possessio simplex est, quâ singuli habitus possidentur: conjuncta, quâ plures.
+
+Exercitatio (χρῆσις) habituum est, quâ illi edunt suas operationes.
+
+REGVLÆ.
+
+I. Possessio habituum est analoga acquisitioni.
+In habitu quolibet ista tria spectantur, acquisitio, possessio, & exercitatio.
+Acquisitio habituum intellectualium exposita est in superiori doctrinâ.
+Nam habitus innati pendent à naturâ; adventitiì acquiruntur vel proprio studio, vel alieno beneficio, nempe Dei infundentis, & præceptorum docentium.
+Possessio respondet acquisitioni.
+Quare cùm acquirantur habitus vel singuli seorsùm, vel plures conjunctim, ipsorum quoque possessio est simplex, vel conjuncta, & quidem hoc modo.
+Habitus singuli ita possidentur, ut inde fiat denominatio simplex: ut à sapientia denominantur sapientes, à prudentiâ prudentes, ab arte artifices, &c.
+Habitus conjuncti ita possidentur, ut inde fiat denominatio composita.
+Ita sapientia conjungitur cum prudentiâ, ars liberalis cum illiberali, &c. atque inde viri docti appellantur prudentes, & artifices.
+Porro habitus intellectuales non solùm conjunguntur inter se, sed etiam cum habitibus moralibus, & aliis quibusdam adjunctis, iisque bonis vel malis, hoc modo: Et ita quidem habitus possidentur, vel singuli, vel conjuncti.
+Utrique porrò possidentur in gradu excellenti, vel remisso: ordinariè, vel extraordinariè: exemplariter, vel vulgariter, &c.
+
+II. Exercitatio habituum est analoga possessioni.
+Qualis est acquisitio habituum, talis est possessio; & qualis possessio, talis exercitatio.
+Itaque habitus vel singuli, vel conjuncti exercentur: & utrique laudabiliter, vel secus: exemplariter, vel vulgariter, &c.
+Deinde habituum exercitatio alia est interna, alia externa; alia facilior, alia difficilior, &c.
+Quâ de re hinc inde in hác Encyclopædiâ tractatur.
+
+PERORATIO HEXILOGIÆ.
+Ita se habet Hexilogia, pars prima alphabeti Cyclopædeutici: 
+ex quâ petenda sunt vera disciplinarum habitualium genera, putà sapientia, scientia, prudentia, & ars; 
+tum fontes cognitionis veri, & actionis boni, putà intelligentia, & synteresis; 
+denique modus, quo procedunt homines in cognitione, qui est triplex; 
+videl. necessario verus, seu apodicticus, contingenter verus, seu dialecticus, & denique falsus, seu sophisticus.
+
+Habitus eruditionis conjungitur cum
+├── Externo aliquo
+│   ├── Bono,cuius specie non minus ornatur, quam formosa mulier mundo. Sic doctrinae iungitur bonum aliquod
+│   │   ├── Corporis: ut robur, forma, sanitas. Hinc docti athletae, pugiles, formosi.
+│   │   └── Fortunae: ut dignitas. Hinc docti principes.
+│   └── Malo & incommodo, quod cum doctrinae per se officiat, commendatiorum facit sapientem, qui impedimenta ista virtutis studio superauerit. Sic doctinae malum aliquod
+│       ├── Corporis: ut 
+│       │   ├── Adversa valetudo. Hinc docti valtudinarij.
+│       │   └── Sexus imbecillitas. Hinc doctae mulieres.
+│       └── Fortunae: ut paupertas. Hinc pauperes qui docti evaserunt.
+└── Interno habitu
+    ├── Bono
+    │   ├── Intellectuali
+    │   │   ├── Liberali. Hinc Philosopho-theologi, Philosopho-medici, etc.
+    │   │   └── Illiberali. Hinc docti viri in mechanicis etiam celebres.    
+    │   └── Moralii. Hinc viri docti legislatores, consiliarij, magistratus, duces bellici.
+    └── Malo; qui licet doctrinae perfectioni nihil addar vel detrahat, tamen exercitationi quidem saepe non parum incommodat. Hinc doctinae coniungitu habitus malus.
+        ├── Theoricus: ut error.
+        └── Practicus
+            ├── Ethicus: ut improbitas.
+            │   ├── Ineptitudo. Hinc docti viri inepti ad oeconomiam, politiam, &c.
+            │   └── Improbitas. Hinc docti viri avari, impii, tyranni, &c.
+            └── Mechanicus. Hinc docti inepti ad mechanica.
+
+Sciagraphia Hexilogiae
+
+EN­CYCL­OPÆDIA traditurper
+    ├── Quatuor Præcognita; ê quibus H­E­X­I­L­O­G­I­A est
+    │   ├── Generalis; de habituum intellectualium
+    │   │   ├── Necessitate & causis. cap. 1.
+    │   │   └── Divisionibus generalibus, numero XIII. cap. 2.
+    │   └── Specialis; de habitu­û intellectualiû
+    │       ├── Speciebus: quod alij sunt vitae
+    │       │   ├── Praesentis iique
+    │       │   │   ├── Veri
+    │       │   │   │   ├── innati. cap. 3.
+    │       │   │   │   └── Aduentitij
+    │       │   │   │       ├── Acquisiti
+    │       │   │   │       │   ├── Necessarij
+    │       │   │   │       │   │   ├── Theorici
+    │       │   │   │       │   │   │   ├── Sapientia. c.4.
+    │       │   │   │       │   │   │   └── Scientia. c.5.
+    │       │   │   │       │   │   ├── Practici. c.6.
+    │       │   │   │       │   │   └── Poetici. c.7.
+    │       │   │   │       │   └── Contingentes. c.8.
+    │       │   │   │       └── Infusi. c.9.
+    │       │   │   └── Falsi. c.10.
+    │       │   └── Futurae c.11.
+    │       └── Possessione & exercitatione. c.12.
+    └── Disciplinarum systemata.
