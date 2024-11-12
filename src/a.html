@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<style>
+    body {
+        background: #fff6d5;
+    }
+    table {
+        border-collapse: separate; 
+        border-spacing: 1em;
+    }
+    span {
+        display: block;
+        margin-left: 1em;
+    }
+</style>
+</head>
+<body>
+<table>
+<tbody>
+<tr><td onclick="selectText(event)">CAP. II. Of the cause efficient.</td><td onclick="selectText(event)">CAP. II. Of the cause efficient.</td></tr>
+<tr><td onclick="selectText(event)">THe cause is that by whose force the thing is: and therfore this first place of inuention is the fountayne of all sciences: for that matter is knowen perfectly, whose cause is vnderstanded: So that not without good reason, the Poet dothe saye:
+<span>    Happye is the man withouten doubte,</span>
+<span>    Of thinges who maye the causes well fynde oute.</span></td><td onclick="selectText(event)">The cause is that by whose force the thing is: and therefore this first place of invention is the fountain of all sciences: for that matter is known perfectly, whose cause is understood: So that not without good reason, the Poet does say:  
+<span>    Happy is the man without doubt,</span>
+<span>    Of things who may the causes well find out.</span></td></tr>
+<tr><td onclick="selectText(event)">The cause is eyther efficiēt and materiall, or formal and fynall.</td><td onclick="selectText(event)">The cause is either efficient and material, or formal and final.</td></tr>
+<tr><td onclick="selectText(event)">The efficient is a cause from the which the thing hathe his being. 
+Of the which althou¦ghe that there be no tru formes, yet a grea∣te aboundance we fynde by somme certay∣ne meanes distincte.</td><td onclick="selectText(event)">The efficient is a cause from which the thing has its being. 
+Of which although there be no true forms, yet a great abundance we find by some certain means distinct.</td></tr>
+<tr><td onclick="selectText(event)">And first the thing that engendrethe or de∣fendethe is called the efficient cause. 
+As Ouide, in his first booke of the remedie for loue callethe Slouthfullnes the efficient cause of loue, which beyng taken awaye loue ceasethe: for thus he there sayethe.
+<span>    When curable thou shalt appeare therfore,</span>
+<span>    By my science thy healthe for to attayne.</span>
+<span>    Geue eare, this is my counsaill euermore,</span>
+<span>    From slouthe and Idlenes thou do abstaine.</span>
+<span>    For thiese to fylthy lust thy mynde prouokethe</span>
+<span>    And do maintaine that, which they haue once wrought</span>
+<span>    Thiese be the causes with foode that norishethe,</span>
+<span>    This euill which now is pleasante in thy thought.</span></td><td onclick="selectText(event)">And first the thing that engenders or defends is called the efficient cause. 
+As Ovid, in his first book of the remedy for love calls Slothfulness the efficient cause of love, which being taken away love ceases: for thus he there says.
+<span>    When curable thou shalt appear therefore,</span>
+<span>    By my science thy health for to attain.</span>
+<span>    Give ear, this is my counsel evermore,</span>
+<span>    From sloth and Idleness thou do abstain.</span>
+<span>    For these to filthy lust thy mind provokes</span>
+<span>    And do maintain that, which they have once wrought</span>
+<span>    These be the causes with food that nourishes,</span>
+<span>    This evil which now is pleasant in thy thought.</span></td></tr>
+<tr><td onclick="selectText(event)">The father also, and the mother which en∣gendrethe, and the nursses which bring vp, ar causes efficients. 
+As Dido. in the 4. boo∣ke of Eneidos beyng sorely offended with Aenee, and sekyng a cause of his crueltie, denyethe hym to be Venus or Anchises sonne, and faynethe other parentes to hym.
+<span>    O false Aenee thy self why dost thou fayne,</span>
+<span>    Of Venus fayre the goddes sonne to be:</span>
+<span>    Or that Anchise which dardam hight by name.</span>
+<span>    Thy author was by waye of parentie,</span>
+<span>    For dreadfull Caucasus did thee begett</span>
+<span>    On terrible and ragged rockes in filde:</span>
+<span>    And raging Tygres noryshes was sette,</span>
+<span>    To geue the sucke of vdder rude and wylde.</span></td><td onclick="selectText(event)">The father also, and the mother which engenders, and the nurses which bring up, are causes efficient. 
+As Dido. in the 4th book of Aeneid being sorely offended with Aeneas, and seeking a cause of his cruelty, denies him to be Venus or Anchises' son, and feigns other parents to him.
+<span>    O false Aeneas thyself why dost thou feign,</span>
+<span>    Of Venus fair the goddess' son to be:</span>
+<span>    Or that Anchises which Dardan named by name.</span>
+<span>    Thy author was by way of parentage,</span>
+<span>    For dreadful Caucasus did thee beget</span>
+<span>    On terrible and ragged rocks in field:</span>
+<span>    And raging Tigers nurturer was set,</span>
+<span>    To give the suck of udder rude and wild.</span></td></tr>
+<tr><td onclick="selectText(event)">So Romulus was buylder of Rome, and after hym, Kynges, Cōulls, Emperours and Tutors were the vpholders of it: which all are called causes efficients.</td><td onclick="selectText(event)">So Romulus was builder of Rome, and after him, Kings, Consuls, Emperors, and Tutors were the upholders of it: which all are called causes efficient.</td></tr>
+</tbody>
+</table>
+<script>
+function selectText(event) {
+    if (event.detail !== 3) return;
+    const selection = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(event.currentTarget);
+    selection.removeAllRanges();
+    selection.addRange(range);
+}
+</script>
+</body>
+</html>

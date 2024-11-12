@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<style>
+    body {
+        background: #fff6d5;
+    }
+    table {
+        border-collapse: separate; 
+        border-spacing: 1em;
+    }
+    span {
+        display: block;
+        margin-left: 1em;
+    }
+</style>
+</head>
+<body>
+<table>
+<tbody>
+<tr><td onclick="selectText(event)">THE FIRST BOOKE OF DIALECTICKE.</td><td onclick="selectText(event)">THE FIRST BOOK OF DIALECTIC.</td></tr>
+<tr><td onclick="selectText(event)">CAP. I. Of the definition and diuisions of Dialecticke.</td><td onclick="selectText(event)">CAP. I. Of the definition and divisions of Dialectic.</td></tr>
+<tr><td onclick="selectText(event)">Dialecticke otherwise called Logicke, is an arte which teachethe to dispute well.</td><td onclick="selectText(event)">Dialectic, otherwise called Logic, is an art which teaches to dispute well.</td></tr>
+<tr><td onclick="selectText(event)">It is diuyded into two partes: Inuention, and iudgement or disposition.</td><td onclick="selectText(event)">It is divided into two parts: Invention and judgment or disposition.</td></tr>
+<tr><td onclick="selectText(event)">Inuention is the first parte of Dialecticke, whiche teachethe to inuente argumentes.</td><td onclick="selectText(event)">Invention is the first part of Dialectic, which teaches to invent arguments.</td></tr>
+<tr><td onclick="selectText(event)">An argumente is that which is naturally bente to proue or disproue any thing, suche as be single reasons separatly and by them selues considered.</td><td onclick="selectText(event)">An argument is that which is naturally bent to prove or disprove anything, such as be single reasons separately and by themselves considered.</td></tr>
+<tr><td onclick="selectText(event)">An argumente is eyther artificial or with∣out arte.</td><td onclick="selectText(event)">An argument is either artificial or without art.</td></tr>
+<tr><td onclick="selectText(event)">Artificiall is that, which of it self declare∣and is eyther first, or hathe the beginning from the first.</td><td onclick="selectText(event)">Artificial is that, which of itself declares and is either first, or has the beginning from the first.</td></tr>
+<tr><td onclick="selectText(event)">The first is that which hathe the begīning of it self: and is eyther simple or compared.</td><td onclick="selectText(event)">The first is that which has the beginning of itself: and is either simple or compared.</td></tr>
+<tr><td onclick="selectText(event)">The symple is that, which symplie and ab∣solutelie is considered: and is eyther argea∣ble or disagreable.</td><td onclick="selectText(event)">The simple is that, which simply and absolutely is considered: and is either agreeable or disagreeable.</td></tr>
+<tr><td onclick="selectText(event)">Agreable is that, wich agreethe with the thing that it prouethe: and is agreable ab∣solutly, or after a certaine fashion.</td><td onclick="selectText(event)">Agreeable is that, which agrees with the thing that it proves: and is agreeable absolutely, or after a certain fashion.</td></tr>
+<tr><td onclick="selectText(event)">Absolutely, as the cause and the effecte.</td><td onclick="selectText(event)">Absolutely, as the cause and the effect.</td></tr>
+</tbody>
+</table>
+<script>
+function selectText(event) {
+    if (event.detail !== 3) return;
+    const selection = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(event.currentTarget);
+    selection.removeAllRanges();
+    selection.addRange(range);
+}
+</script>
+</body>
+</html>
