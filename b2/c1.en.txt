@@ -84,3 +84,73 @@ The former is always achieved by the artificer: the latter not always.
 Thus the internal end of rhetoric is to provide persuasive instruments: the external, to persuade.  
 The orator always achieves the former; not necessarily the latter.
 
+IV. Every discipline ought to perfectly provide sufficient means to achieve the goal.
+It is not enough to merely indicate the end unless the means are demonstrated, which lead us to the end.
+It is necessary, therefore, that every discipline provides means, which can lead us to the desired destination: and indeed perfectly.
+Understand here the perfection of parts, as they call it, not of degrees.
+
+V. Every discipline should have a subject whose knowledge is useful and necessary.
+Every discipline must have a certain subject because it is necessary to teach something.
+Moreover, that subject must be valuable, that is, arranged in such a way that its knowledge is notably useful and necessary; because common matters can be learned outside systems of disciplines; and useless matters should not be learned.
+The subject of a discipline has two parts: the thing considered, and the mode of consideration, or material and formal.
+The former can be taught in many disciplines at once, the latter in only one.
+Hence the common saying: What is homogeneous in one art is heterogeneous in another; this is true concerning the mode of consideration.
+
+VI. There ought to be seven properties of principles in any discipline.
+Firstly, principles ought to be true, because an encyclopedia is not sophistical, nor, so to speak, a "mean philosophy" and "false writing," but it is philosophy, in the broad sense of this word.
+Then, they ought to be clear; because if they are obscure, the art will not achieve its end, which is to rightly perfect a person, not to lead them ponderously.
+Thirdly, they ought to be easy, for the same reason.
+And indeed, it is the nature of truth to be both clear and easy.
+Fourthly, they ought to be useful; because what ought to perfect a person is useful.
+Fifthly, they ought to be necessary, not indeed absolutely and supremely, so that they are reciprocal, but yet in such a way that they produce knowledge, that is, such understanding which does not fluctuate.
+From which it further follows that principles can sometimes be both negated and singular, if indeed the matter itself is of necessary negation and singular nature.
+Sixthly, it is required that principles be homogeneous, since they ought to aim at the same subject and the same end, as to a center.
+Even though the matters of the same discipline may differ in species, for example, man and beast in physics, yet principles of things differing in species can agree in species, for example, the principles of physics.
+Finally, they will be sufficient; because perfect knowledge is required, not in degree, but in the essence of every useful and true thing.
+From these, it is clear that sophistry, garrulity, and imperfection are especially contrary to disciplines.
+
+VII. Theoretical disciplines should be taught by the synthetic method, practical and poetic by the analytic; and in both, two parts of each discipline should be established, one general, the other special.
+The synthetic method is completed with the knowledge of the subject, principles, and affections or properties in general, and in specific treatment of the parts of the subject.
+Here, remember this rule: The subject of the discipline is considered in the direct and oblique case.
+For example, a natural body is the subject of physics in the nominative, that is, as such, and in the genitive, that is, of the body's principles, properties, and species.
+The analytic method is completed with the knowledge of the end, subject, and means in general, and in specific application of means to a certain subject.
+That former method of teaching and learning suits the sciences, since there a property is demonstrated about the subject through proximate causes; the latter suits prudence and arts, because there the end is sought through certain means to be introduced into the subject.
+Moreover, because there is a general and special treatment in both, it is correctly established that there are two parts of each discipline, one general or common, the other special or proper.
+But these are evident from the special treatment of each discipline.
+
+VIII. Each discipline should be an imitator of nature, namely, nature when it is in proper condition.
+This is a common saying among all philosophers, derived from Aristotle, who in Physics 2, chapter 2, states, "Art imitates nature," namely, so far as nature is in proper condition.
+They imitate nature in those things where it is possible, whether those are under our control or beyond us; but not in those things which are apart from us.
+Thus nature produces substance, which art cannot do: nature is an internal principle, art is not.
+This imitation primarily consists in:
+1. Art does nothing in vain but everything with a certain reason and for the sake of a certain good.
+2. It always does what is best.
+3. It does not offer superfluous things, nor does it lack in what is necessary.
+4. It does everything with a certain order.
+
+IX. Each discipline should be a more certain guide than nature, namely, when it is deficient.  
+Nature is considered in two ways.  
+First, inasmuch as it is in proper condition, even after the fall.  
+For in this way, nature is the daughter of God.  
+Then, inasmuch as it is corrupted by the fall: and thus, a soiled garment taints nature, that daughter of God.  
+In the former way, art is an imitator of nature; in the latter, it is a more certain guide than nature: because it strives to supply the deficiency of nature.  
+
+X. In divine matters, there is a threefold subordination: by reason of the subject, principles, and end.
+Subordination is when a lower discipline depends on a higher one, either by reason of the subject and principles or by reason of the end.
+The former is given in theoretical disciplines, the latter in practical ones.
+Subordination by reason of the subject occurs when the subject of one discipline depends on the subject of another.
+Subordination by reason of principles happens when the principles of one discipline depend on the principles of another.
+Both subordination types are either general or special.
+General subordination is when all disciplines subordinate to Metaphysics, since the subjects and principles of these disciplines depend on its subject and principles.
+Thus, Economics is subordinated to Ethics, likewise Politics to Ethics, and Jurisprudence to Politics, by reason of their subjects and principles.
+However, this subordination is considered too remote by philosophers.
+Special subordination is when a subalternated discipline receives its subject, principles, and affections from the subalternating discipline.
+This is called the most proper subordination, which occurs only in Mathematics.
+In this manner, Music is subordinated to Arithmetic, and Optics to Geometry.
+For Music derives its subject, principles, and affections from Arithmetic, and Optics from Geometry.
+And this subordination has a place only in sciences because there are these three: subject, principles, and affections.
+As for subordination by reason of the end, it exists only in practical disciplines, where a discipline is said to be subordinated by reason of the end, whose end is under the end of the superior discipline, such that the subalternating discipline practically directs the subalternated one and commands it to direct its actions to the superior end.
+This is proper subordination found in practical disciplines.
+In this way, Economics is subordinated to Politics; because Politics is concerned with a superior end and commands Economics to accommodate its actions to the superior end.
+But besides this proper subordination by reason of the end, there is also improper subordination by reason of the end, where the subalternating discipline has no command over the subalternated one but considers the superior end contemplatively: in this manner, Ethics is subordinated to Physics.
+For Physics considers only contemplatively the best operation of a human, which is the perfect operation of the intellectual part: moral philosophy, however, teaches what each person should do in order to live perfectly, that is, well and happily.

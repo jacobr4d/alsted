@@ -83,3 +83,74 @@ Potest etiam hic adhiberi distinctio inter finem internum & externum.
 Ille semper præstatur ab artificè: hic non semper. 
 Sic finis internus Oratoriæ est tradere instrumenta persuasoria: externus, persuadere. 
 Illum semper obtinet orator; hunc non item. 
+
+IV. Qualibet disciplina debet perfectè tradere media sufficientia ad scopum consequendum.
+Non satis est præmonstrare finem, nisi demonstrentur media, quæ nos perducant ad finem.
+Necessè igitur est, ut omnis disciplina suppeditet media, quæ nos possint ad optatam perducere metam: & quidem perfectè.
+Intellige hic perfectionem partium, vt vocant, non graduum.
+
+V. Omnis disciplina habeat subiectum, cuius cognitio sit utilis & necessaria.
+Qualibet disciplina debet habere certum subiectum; quia necesse est, vt aliquid doceat.
+Illud autem subiectum debet esse præstabìle, id est, ita comparatum, vt ipsius cognitio sit insigniter utilis, & necessaria; quia res vulgares extra disciplinarum systemata possunt addisci; res autem inutiles non debent addisci.
+Subiectum autem disciplinæ habet duas partes: rem consideratam, & modum considerandi, seu, materiale & formale.
+Illud potest tradi in multis disciplinis simul, hoc in vnà tantum.
+Ideò vulgatum illud: Quod in vnâ arte est homogenium, in alterâ est heterogenium; verum est de modo considerationis.
+
+VI. Præceptorum in quâcunqne disciplinâ septem debent esse proprietates.
+Principio præcepta debent esse vera, quia Encyclopædia non est sophistica, neque, ut ita dicam, φαυλοσοφία & falsigraphia, sed est philosophia, latè accepto hoc vocabulo.
+Deindè debent esse perspicua; quia si obscura sint, ars non assequetur finem suum, qui est rite perficere hominem, non autem moleste ducere.
+Tertio debent esse facilia, eandem ob causam. 
+Et verò ea est veritatis natura, ut & clara sit & facilis.
+Quarto debent esse utilia; quia quod perficere debet hominem, id est utile.
+Quinto debent esse necessaria, non quidem simpliciter & summè, ita ut sint reciproca, sed tamen ita, ut pariant scientiam, id est, talem cognitionem, quae non fluctuet. 
+Unde porro sequitur, interdum praecepta posse esse & negata, & singularia, si nempe res ipsa sit negationis necessariae, & naturae singularis.
+Sexto requiritur, ut praecepta sint homogenea, cum collineare debeant ad idem subjectum, & eundem finem, tanquam ad centrum. 
+Tametsi ergò res eiusdem disciplinae differant specie, v. g. homo & bestia in Physicis: praecepta tamen rerum specie differentium possunt specie convenire, v. g. praecepta Physicae.
+Sufficientia denique erunt; quia requiritur cognitio perfecta, non in gradu, sed in essentia cuiusque rei utilis & verae.
+Ex his patet, sophisticationem, garrulitatem, & imperfectionem inprimis adversari disciplinis.
+
+VII. Disciplinae theoreticae tradantur methodo synthetica, practicae & poeticae analytica: & in utraque constituantur duae partes cuiusque disciplinae, una generalis, altera specialis.
+Methodus synthetica absolvitur cognitione subiecti, principiorum, & affectionum sive proprietatum in genere, & in specie tractatione partium subiecti. 
+Hic memineris regulae istius: Subiectum disciplina consideratur in recto & obliquo casu. 
+E.g. corpus naturale est subiectum Physices in Nominativo, id est, qua tale, & in Genitivo, id est, corporis principia; proprietates, & species. 
+Methodus analytica absolvitur cognitione finis, subiecti, & mediorum in genere, & in specie applicatione mediorum ad certum subiectum. 
+Prior illa docendi discendique via convenit scientiis; quia ibi demonstratur proprietas de subiecto per causas proximas: posterior prudentiis & artibus, quia ibi quaeritur finis per certa media in subiectum introducendus. 
+Porro quia utrobique est tractatio generalis & specialis, recte statuuntur duae partes cuiusque disciplinae, una generalis seu communis, altera specialis sive propria. 
+Sed haec patent ex cuiusque disciplinae speciali tractatione.
+
+VIII. Disciplina quaeque sit aemula naturae, recte scilicet se habentis.
+Haec est communis vox omnium philosophantium, desumpta ex Aristotele, qui 2. Phys. c. 2. ait, ἡ τέχνη μιμεῖται τὴν φύσιν, Ars imitatur naturam, scil. quatenus natura recte se habet.
+Imitantur autem naturam in iis, in quibus potest, sive illa sint ὑφ' ἡμῶν, sive ὑπὲρ ἡμῶν; non autem in iis, quae sunt ἀφ' ἡμῶν.
+Sic natura producit substantiam, quod ars non potest: natura est principium internum, ars non item.
+In his autem praecipue consistit illa imitatio.
+1. Ars nihil facit frustra, sed omnia certa ratione, certique boni gratia.
+2. Semper facit id, quod est optimum.
+3. Non tradit supervacanea, nec deficit in iis, quae sunt necessaria.
+4. Facit omnia cum certo ordine.
+
+IX. Disciplina quaecque sit dux certior quam natura, scilicet deficiens.
+Natura consideratur duobus modis. 
+Primo quatenus recte se habet, etiam post lapsum. 
+Ita enim natura est Dei filia. 
+Deinde quatenus est corrupta per lapsum: & ita naturam, filiam illam Dei, vestis sordidata contaminat. 
+Priori modo ars est aemula naturae; posteriori est dux certior quam natura: quia conatur supplere defectum naturae.
+
+X. Subalternatio in divinis datur triplex: ratione subiecti, principiorum, & finis.
+Subalternatio est, qua inferior disciplina pendet a superiori, vel ratione subiecti & principiorum, vel ratione finis. 
+Illa datur in theoricis, haec in practicis. 
+Subalternatio ratione subiecti est, quando subiectum unius disciplinae pendet a subiecto alterius. 
+Subalternatio ratione principiorum est, quando principia unius disciplinae pendent a principiis alterius. 
+Utraque illa subordinatio est vel generalis, vel specialis. 
+Generalis est, qua omnes disciplinae subordinantur Metaphysicae: quippe a cuius subiecto & principiis pendent ipsarum subiecta & principia.
+Ita Ethicae subordiantur Oeconomica, itemque Politica, & Politicae Iurisprudentia, ratione scil. subiecti principiorum.
+Verum haec subalternatio tanquam nimis remota non attenditur a philosophis.
+Specialis est, cum disciplina subalternata a subalternante accipit subiectum, & principia, & affectiones.
+Et haec dicitur subalternatio propriissima; quae in Mathesi tantum habet locum.
+Quo pacto Arithmeticae Musica, & Geometriae Optica subalternatur.
+Nam Musica ex Arithmetica, & Optica ex Geometria sumit subiectum, principia & affectiones.
+Et haec subalternatio tantum habet locum in scientiis: quia ibi sunt ista tria, subiectum, principia, & affectiones.
+Quod attinet ad subalternationem ratione finis, illa tantum est in disciplinis practicis, ubi illa disciplina dicitur subalternata ratione finis, cuius finis est sub fine subalternantis, ita scil. ut subalternans dirigat practice subalternatam, eique praecipiat, ut ad superiorem finem suas actiones diritgat.
+Et haec est subalternatio proprie dicta, quae datur in practicis.
+Hoc pacto Politiae subordinatur Oeconomica; quia illa est de fine superiori, & praecipit Oeconomicae, ut in agendo ad superiorem finem se accommodet
+Sed praeter hanc subalternationem propriam ratione finis, datur etiam subalternatio ratione finis impropria, ubi disciplina subalternans nullum habet imperium in subalternatam, sed solum contemplative agit de superiori fine: quo pacto Ethica subalternatur Physicae.
+Agit enim Physica contemplative tantum de optima hominis operatione, quae est perfecta operatio partis intellectivae: moralis autem philosophia docet, quid cuique agendum sit, ut perfecte, id est, bene beateque vivat.
