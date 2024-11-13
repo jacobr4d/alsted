@@ -154,3 +154,82 @@ Et haec est subalternatio proprie dicta, quae datur in practicis.
 Hoc pacto Politiae subordinatur Oeconomica; quia illa est de fine superiori, & praecipit Oeconomicae, ut in agendo ad superiorem finem se accommodet
 Sed praeter hanc subalternationem propriam ratione finis, datur etiam subalternatio ratione finis impropria, ubi disciplina subalternans nullum habet imperium in subalternatam, sed solum contemplative agit de superiori fine: quo pacto Ethica subalternatur Physicae.
 Agit enim Physica contemplative tantum de optima hominis operatione, quae est perfecta operatio partis intellectivae: moralis autem philosophia docet, quid cuique agendum sit, ut perfecte, id est, bene beateque vivat.
+
+XI. Omnes disciplinæ continentur artissima quadam inter se cognatione.
+Cicero in limine orationis pro Archia graviter ait: Omnes artes, quæ ad humanitatem pertinent, habent commune quoddam vinculum, & quasi cognatione quadam inter se continentur.
+Ita profecto est.
+Nam plus quam sororium vinculum cernere est inter omnes & singulas Encyclopædiæ partes; & summam harmoniam, quæ potissimum consistit in tribus.
+Principio ibi cernitur consensio respectu veritatis; quia verum vero consonat.
+Principia quippe vera veris principiis, conclusiones veræ veris conclusionibus, conclusiones denique veræ veris principiis consonant.
+Et licet dentur gradus veritatis, non tamen ideo turbatur amicissima illa consensio; quemadmodum inter avios, parentes, filios, & nepotes non desinit esse summa amicitia, quia alii sunt superiores, alii inferiores.
+Deinde datur consensio in disciplinis ratione finis, quia omnes hoc sibi habent propositum, ut gloria Dei illustretur, & hominis miseria sublevetur.
+Unde Plato gravissime dixit, gravissimam de Deo famam in astris & artibus esse sparsam.
+Hinc etiam est, quod disciplinæ sibi mutuas porrigant & auxiliatrices manus; quæ tertia est consensio, ratione mutui auxilii.
+Quo pertinet illud πανδνμειχαη: disciplinæ sunt conjunctæ in usu.
+
+XII. Metæ disciplinarum constituendæ sunt, ne fiat transitus e genere disciplinæ in genus.
+Multum refert, ut metæ disciplinarum recte constituantur.
+Fieri siquidem non potest, ut legitimus ordo in Encyclopædia servetur, si non constet distinctio, ut ita dicam, finium, agrorum, & familiarium.
+Etsi autem hæc distinctio e qualibet disciplinâ sumi potest: non tamen ideo hæc præcognitio est supervacanea.
+Oportet enim hic prænoscere, quomodo disciplinæ theoricæ, practicæ, & poeticæ in genere differant: quia hoc est fundamentum tractationis specialis.
+
+XIII. Disciplinæ distinguuntur subjectis & finibus; & inde sumunt suam unitatem.
+Et primo quidem subjectum est informationis, tractationis, vel operationis.
+Subjectum informationis est intellectus, voluntas, affectus, memoria, vel oratio.
+Subjectum tractationis, sive doctrinæ, est ens quod explicatur vel in genere, vel in specie.
+Subjectum operationis, sive usus, est itidem ens, cui applicantur præcepta.
+Finis disciplinarum est vel cognitio veri, vel actio boni, vel præbitio instrumenti, quo promovemur ad cognitionem veri, vel actionem boni.
+Cæterum unitas disciplinæ theoricæ sumitur ex unitate subjecti tractationis.
+
+XIV. Contemplativæ disciplinæ semper attingunt per se ipsas finem suum principalem, qui est contemplatio: sed practicæ & poeticæ non per se ipsas, sed per alium habitum aut potentiam.
+Disciplinæ theoricæ in sola rerum naturâ explicandâ versantur, nec tradunt regulas oneris cuiusquam faciendi, etiamsi res, de quibus agunt, fieri possint humanâ operâ.
+Quâ ratione dicimus, Geometriam esse contemplativam: quia nullas tradit agendi aut faciendi regulas, tametsi multæ res Geometricæ fieri possunt humanâ arte, ut pentagonon a fabro.
+Quare si quando in mathematicis disciplinis proponantur huiusmodi regulæ, quæ præscribunt rationem certas figuras describendi, non existimandum est, ideò mathematicas disciplinas esse practicas vel poeticas, etiamsi ita appellentur: ut quando dicimus Arithmeticam practicam, Geometriam practicam, & sic deinceps.
+Tum enim biotica & mechanica, quæ sunt praxis matheseos, immiscentur mathematicis, ut ita pateat ipsorum usus.
+Disciplinæ autem practicæ & poeticæ tradunt præcepta agendi aliquid aut faciendi, etiamsi naturam eius & partes, ac proprietates simul explicent.
+Quâ ratione moralis philosophia dicitur practica, propter regulas agendi, quas tradit; quanquam simul agat de naturâ virtutum.
+Idem de poëticis iudicium esto.
+Ex his itaque patet, contemplativas scientias semper attingere per se ipsas finem suum principalem, qui est contemplatio; cum is sit actus ipsarum elicitus: practicas vero & poëticas non per se ipsas, sed per alium habitum aut potentiam.
+Nam scientiæ moralis finis præcipuus, est opus virtutis.
+At hoc non à scientiâ ipsâ morali, sed à virtute attingitur.
+Eodemque modo finis medicinæ principalis, est sanitas; & artis militaris, victoria: sed tamen neutra attingit cum finem per se ipsam, sed per potentiam executivam.
+
+XV. Quod est subjectum tractationis in unâ disciplinâ, id in aliâ potest esse subjectum operationis.
+Sic ens reale est subjectum tractationis in Metaphysicâ, in Logicâ est subjectum operationis.
+Hic observa, subjectum informationis & operationis dici externum; tractationis, internum.
+
+XVI. Omnis disciplina debet tractare de ente aliquo; idque quatenus est vel νοητόν, intelligibile, vel καλοκαγαθόν, honestum, vel τεχνικόν sive ὀργανικόν, artificiale.
+Non-entis nulla est scientia: quia non-entis nulla sunt accidentia.
+Solum itaque ens potest terminare intellectum nostrum.
+Hinc Aristoteles recte ait, ἐπιστήμη πέρι ὄντας τί πρᾶγμα, scientia dividitur uti res ipsa.
+Res autem sciendæ sunt in triplici differentiâ.
+Alia quippe sunt tantum νοητά, id est, hanc habent naturam, ut intelligi possint: unde disciplinæ contemplatrices emergunt.
+Aliæ ita sunt comparatæ, ut illarum cognitio dirigatur ad καλοκαγαθίαν, id est, honestatem: unde disciplinæ operatrices.
+Aliæ denique hanc habent naturam, ut illarum cognitio dirigatur ad effectionem: unde disciplinæ effectrices.
+Hinc porro singularum disciplinarum differentiæ facile possunt colligi: ut Metaphysica tractat de ente in genere; Arithmetica de ente numerabili; Geometria de ente mensurabili; Ethica de ente honesto; Logica de ente disseribili.
+Vnde illæ phrasēs: ens Logicum, ens Mathematicum, ens Physicum.
+
+XVII. Omnis disciplina consideratur vel in ideâ, vel in subjecto.
+Omnis doctrina consideratur vel formaliter, & prout est naturâ & genere suo, simpliciter: vel prout est subiectivè & compositè, quodam modo.
+Id quod est naturâ & in genere seu ideâ, abstractum appellatur: quod secus, concretum.
+Id autem quod est naturâ & in ideâ, præstantius est eo, quod concretum est: quia nihil habet commixtum, dispar sui atque dissimile.
+Sic iustitia in se semper est una & eadem, in nullis personis, locis, temporibus mutabilis: sed eadem in iusto, veluti subjecto, mutationem suscipit.
+Iccircò de universâ Encyclopædiâ dicturos oportet dispicere, ne ideam, i.e. formam ipsius, prout est pura in iise, cum subjecto eiusdem confundamus; in quo illa potest deformari, & fieri, ut ita dicam, παρακεκαλυμμένη.
+Nam si id quod subjecti est seu individui, cum ipsâ matre intemeratâ confundatur, neutrum horum recte cognosci potest, nec dignitas philosophiæ, nec veritas subjecti, in quo illa est veluti modificata.
+Nobis autem propositum est agere de Encyclopædiâ illâ, quæ dicitur absoluta, & est talis simpliciter, in gradu excellenti: non autem de eâ, quæ dicitur limitata & modificata, et sæpe talis secundum quid, in gradu temperamenti seu mixturæ.
+Illa est veluti purissima forma: hæc veluti forma materiæ superaddita, & pro conditione materiæ suæ determinata angustiùs.
+Cùm enim subjectum Encyclopædiæ sit homo, qui ex comprehensione eius philologus, philosophus, theologus, &c. appellatur, & verò ille summopere vanitate & infirmitate circumfluât: fieri non potest, ut præcepta possint scribi de philosophiâ, vt est in subjecto.
+Præcepta siquidem sunt rerum constantium & perpetuarum.
+Vnde præterea planum euadit, quam iniqui sint, qui hoc tempore non aliam noverunt Encyclopædiam, quam quæ secundum homines est, in hominibus, & qui ab hominum iudicio atque authoritate pendent, ac si Encyclopædia illa absoluta, aut euanuisset planè, aut in manûs potestatemque hominum mancipii lege devenisset: cum forma philosophiæ sit permanens, non autem ad voluntatem hominis mutabilis: cui omnes homines oportet credere, non autem illam hominibus ignorantibus & infirmis cedere.
+Contra se habet Encyclopædia in subjecto.
+Eius enim modus circumscribi non potest: quia & in vnquoque variat, & inter omnes est diversissimus.
+In vnquoque, inquam, variat: quia recipiens recipit secundum modum receptivitatis suæ.
+Inter omnes variat: eandem ob causam, quia plus in his, quam in illis scientia inualescit, & ignorantia minuitur: etsi hic nemo ex omnibus totam Encyclopædiæ formam per omnia comprehendit.
+Et si autem nemo perfectè assequi potest sapientiæ istius rationem: si tamen, qui plus vident quam alibi, recte dicuntur sapientes.
+Frivolum enim est, quod Pythagorei contenderunt, solum Deum esse σοφόν, & nullum hominem dici posse sapientem.
+Nam ideò quia Deus est sapiens, homo quoque sapiens dici potest, & verò debet: quippe imago Dei.
+Est tamen nihilominus discrimen maximum: quia sapientia Dei est archetypa, originalis, essentialis, adeoque ipsa Dei essentia; hominis verò sapientia est ectypa, archetypæ illius ἀπόσκενος dependens, & accidentalis.
+Ad extremum, Encyclopædia in subjecto considerata, cadit in hominem, vel quà homo est, vel quà ethnicus est, vel quà Christianus est.
+Illa est pura; ista sæpe purior est quam hæc, quæ in Christianum cadit; quatenus lumen rationis magis excolitur: hæc denique sæpenumero purior est quam ista, quatenus lumen gratiæ accedit ad lumen naturæ rite collustratum radiis principiorum naturalium.
+Sunt enim sæpe Christiani, qui non excolunt lumen rationis, ideoque minus sunt philologi, philosophi &c. quam gentiles.
+Et rursùs sunt Christiani, qui excolunt rationem suam; & hoc modo plus vident in Encyclopædiâ, quam primi philosophiz antistites apud paganos.

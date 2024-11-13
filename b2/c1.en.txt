@@ -154,3 +154,82 @@ This is proper subordination found in practical disciplines.
 In this way, Economics is subordinated to Politics; because Politics is concerned with a superior end and commands Economics to accommodate its actions to the superior end.
 But besides this proper subordination by reason of the end, there is also improper subordination by reason of the end, where the subalternating discipline has no command over the subalternated one but considers the superior end contemplatively: in this manner, Ethics is subordinated to Physics.
 For Physics considers only contemplatively the best operation of a human, which is the perfect operation of the intellectual part: moral philosophy, however, teaches what each person should do in order to live perfectly, that is, well and happily.
+
+XI. All disciplines are contained by a very close connection with each other.
+Cicero, at the beginning of his speech for Archias, solemnly states: All arts that pertain to humanity have a certain common bond, and are held together by a certain kind of kinship.
+Thus it indeed is.
+For more than a sisterly bond is to be observed between all and each part of the Encyclopedia; and the greatest harmony, which especially consists in three things.
+Firstly, there is observed an agreement in regard to truth; because truth is in harmony with truth.
+True principles indeed harmonize with true principles, true conclusions harmonize with true conclusions, and true conclusions ultimately harmonize with true principles.
+And although there are degrees of truth, yet that most friendly harmony is not disturbed; just as among ancestors, parents, children, and grandchildren, supreme friendship does not cease to exist, because some are higher, others lower.
+Furthermore, there is agreement in the disciplines concerning their purpose, because all have this goal in common, that the glory of God be illuminated and the misery of man be alleviated.
+Hence Plato most solemnly said, the most solemn fame of God is spread in the stars and arts.
+Hence also it is, that disciplines extend mutual and helpful hands to one another; which is the third agreement, concerning mutual assistance.
+Of which the phrase "πανδνμειχαη" pertains: disciplines are united in usage.
+
+XII. Boundaries of disciplines must be established, lest there be a transition from one type of discipline to another.
+It is very important that the boundaries of disciplines are set correctly.
+Indeed, it cannot happen that the proper order in the Encyclopedia is maintained if there is not a clear distinction, so to speak, among the limits, territories, and households.
+Even though this distinction can be derived from any discipline: nevertheless, this prior knowledge is not superfluous.
+For it is necessary here to know in advance how theoretical, practical, and poetic disciplines differ in general: because this is the foundation of specific treatment.
+
+XIII. Disciplines are distinguished by their subjects and ends; and from these they derive their unity.
+First of all, the subject is of information, treatment, or operation.
+The subject of information is intellect, will, emotion, memory, or speech.
+The subject of treatment, or doctrine, is being, which is explained either in general or in particular.
+The subject of operation, or use, is likewise being, to which instructions are applied.
+The end of disciplines is either the knowledge of truth, the action of good, or the provision of an instrument by which we are advanced to the knowledge of truth or the action of good.
+Furthermore, the unity of a theoretical discipline is derived from the unity of the subject of treatment.
+
+XIV. Contemplative disciplines always attain their principal end, which is contemplation, by themselves; but practical and poetic disciplines do not by themselves, but through another habit or power.
+Theoretical disciplines are concerned solely with explaining the nature of things and do not provide rules for making anything, even if the matters they discuss can be accomplished by human effort.
+For this reason, we say that Geometry is contemplative: because it provides no rules for acting or making, even though many geometric objects can be created through human art, such as a pentagon by a carpenter.
+Therefore, if in mathematical disciplines such rules are proposed that prescribe the method for drawing certain figures, it should not be concluded that mathematical disciplines are practical or poetic, even if they are so called: as when we say practical Arithmetic, practical Geometry, and so on.
+For then biotics and mechanics, which are the practical aspects of mathematics, are intermixed with mathematics so that their use becomes evident.
+However, practical and poetic disciplines provide instructions for doing or making something, even if they simultaneously explain its nature, parts, and properties.
+For this reason, moral philosophy is called practical, because of the guidelines for action it provides; although it also discusses the nature of virtues.
+The same judgment applies to poetics.
+From these considerations, it is clear that contemplative sciences always achieve their principal end, which is contemplation, by themselves, since this is their immediate act: whereas practical and poetic sciences do not by themselves, but through another habit or power.
+For the chief end of moral science is the work of virtue.
+But this is achieved not by moral science itself, but by virtue.
+In the same way, the main end of medicine is health; and of military art, victory: yet neither attains its end by itself, but through an executive power.
+
+XV. What is the subject of treatment in one discipline can be the subject of operation in another.
+Thus, real being is the subject of treatment in Metaphysics, and it is the subject of operation in Logic.
+Note here that the subject of information and operation is called external; the subject of treatment, internal.
+
+XVI. Every discipline must deal with some being; and that to the extent it is either νοητόν, intelligible, καλοκαγαθόν, honest, or τεχνικόν or ὀργανικόν, artificial.
+There is no science of non-being because non-being has no attributes.
+Therefore, only being can engage our intellect.
+Hence Aristotle rightly says, ἐπιστήμη πέρι ὄντας τί πρᾶγμα, science is divided according to the thing itself.
+Things that are to be known exist in a threefold difference.
+Some are only νοητά, that is, they have the nature that they can be understood: hence contemplative disciplines emerge.
+Others are so composed that their knowledge is directed toward καλοκαγαθίαν, that is, honesty: hence operative disciplines arise.
+Finally, others have a nature such that their knowledge is directed toward production: hence productive disciplines originate.
+From this, moreover, the differences of individual disciplines can be easily gathered: for example, Metaphysics deals with being in general; Arithmetic with numerable being; Geometry with measurable being; Ethics with honest being; Logic with disputable being.
+Whence come those phrases: Logical being, Mathematical being, Physical being.
+
+XVII. Every discipline is considered either in idea or in subject. 
+Every doctrine is considered either formally, as it is by nature and in its kind, simply, or subjectively and in a composite manner, in some way. 
+What is by nature and in kind or idea is called abstract; what is otherwise, concrete. 
+However, what is by nature and in idea is more excellent than what is concrete because it has nothing mixed, dissimilar, or unlike itself. 
+Thus justice in itself is always one and the same, unchangeable in any persons, places, or times, but the same in the just person, as in its subject, undergoes change. 
+Therefore, when speaking of the entire Encyclopedia, we must take care not to confuse its idea, i.e., its form, as it is purely in itself, with its subject, in which it can be deformed and become, so to speak, παρακεκαλυμμένη. 
+For if what belongs to the subject or individual is confused with its undefiled essence, neither can be rightly known, neither the dignity of philosophy nor the truth of the subject, in which it is, as it were, modified. 
+But our intention is to discuss that Encyclopedia which is called absolute and is such simply, in an excellent degree, not that which is called limited and modified, and often such in a certain respect, in a degree of temperance or mixture. 
+It is, as it were, the purest form; the other is like a form superadded to matter and determined more narrowly according to the condition of its matter. 
+For since the subject of the Encyclopedia is man, who by its comprehension is called a philologist, philosopher, theologian, etc., and indeed he is greatly surrounded by vanity and weakness, it cannot be that precepts can be written about philosophy as it is in the subject. 
+For precepts pertain to constant and perpetual things. 
+Hence it further becomes clear how unjust those are who at this time recognize no other Encyclopedia than that which is according to men, in men, and who depend on the judgment and authority of men, as if that absolute Encyclopedia had either completely vanished or fallen into the hands and power of men by the law of servitude; since the form of philosophy is permanent and not changeable at the will of man, to whom all men must adhere, but not defer to ignorant and weak men. 
+On the contrary, the Encyclopedia in subject is thus held. 
+Its manner cannot be circumscribed because it varies in each individual and is most diverse among all. 
+It varies, I say, in each one because the recipient receives according to the manner of its receptivity. 
+It varies among all for the same reason, because knowledge increases more in some than in others and ignorance decreases; though no one from among all comprehends the entire form of the Encyclopedia in all respects.
+And although no one can perfectly attain the nature of this wisdom, nonetheless those who see more than elsewhere are rightly called wise. 
+For it is frivolous what the Pythagoreans contended, that only God is σοφόν, and no man can be called wise. 
+For thus because God is wise, man can and indeed should also be called wise as he is the image of God. 
+There is, however, nonetheless the greatest distinction: for the wisdom of God is archetypal, original, essential, and indeed the very essence of God, whereas the wisdom of man is ectypal, dependent on that archetypal illumination, and accidental.
+Finally, the Encyclopedia considered in the subject falls upon man, either as he is man, as he is a non-Christian, or as he is a Christian. 
+The former is pure; the latter is often purer than this one, which falls upon the Christian insofar as the light of reason is more refined; this last one is often purer than the previous because the light of grace approaches the light of nature rightly illuminated by the rays of natural principles. 
+For there are often Christians who do not refine the light of reason and hence are less philologists, philosophers, etc., than pagans. 
+And again, there are Christians who refine their reason, and in this way, they see more in the Encyclopedia than the first teachers of philosophy among pagans.
