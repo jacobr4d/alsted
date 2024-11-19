@@ -1,0 +1,92 @@
+CAPVT III.
+De generalibus diuisionibus disciplinarum.
+
+PRÆCEPTA.
+GENERALIS diuisio disciplinarum est multiplex.
+Est enim disciplina
+
+I. Interna, vel externa; seu, habitualis, vel systematica.
+Illa est habitus intellectualis, hominem perficiens, & aptum reddens ad artificiosè contemplandum, vel agendum: hæc est systema methodicum, de re aliqua scibili vtilique, ad erudiendum & perficiendum hominem.
+
+II. Archetypa, vel ectypa.
+Illa est causa huius; hæc illius effectuum.
+
+III. Architectonica, vel subdita.
+Illa imperat huic: hæc illi ancillatur, vnde & ancillaris dicitur, itemque ὑπηρετική.
+
+IV. Subalternans, vel subalternata.
+Illa probat aliquid huius; hæc ab illâ sumit aliquid probatum.
+
+V. Pura, siue sincera, vel mixta, quæ & media.
+Illa habet subiectum vnius categoricæ; hæc duarum.
+
+VI. Propriè, vel impropriè dicta.
+Illa est systema disciplinæ: hæc est vel pars vnius alicuius systematis, vel farrago ex variis systematicis.
+
+VII. Acroamatica, vel exoterica.
+Illa est sublimioris indaginis: hæc vulgaris doctrinæ.
+
+VIII. Simplex, vel composita.
+Ista est totalis, vel partialis.
+Totalis est integrum systema: partialis est pars systematis.
+Composita constat ex particulis variarum disciplinarum.
+
+IX. Obiectiua, vel directiua.
+Illa occupatur circa notiones primas, siue res ipsas: hæc circa voces, & notiones secundas.
+
+X. Mensurans, vel mensurata.
+Illa est aliarum norma: hæc ab aliis accipit normam.
+
+XI. Accurata, vel coniecturalis.
+Illa nititur principiis certis, vnde & ἐπιστημονική dicitur: hæc nititur principiis probabilibus, & δοξαστική appellatur.
+
+XII. Realis, vel instrumentalis.
+Illa versatur circa ipsas res: hæc circa organa rerum.
+
+XIII. Generalis, vel specialis.
+Illa tradit regulas generales, quibus multæ aliæ vtuntur: hæc, proprias.
+
+XIV. Theoretica, practica, vel poëtica, seu, contemplatiua, actiua, vel factiua: seu, contemplatrix (aut speculatrix) operatrix, vel effectrix.
+Illa tradit cognitionem veri: ista, actionem boni moralis: hæc, effectionem boni artificialis.
+
+XV. Docens, vel vtens.
+Illa tradit præcepta: hæc vsum præceptorum ostendit.
+
+XVI. Naturalis, vel supernaturalis.
+Illa dicitur ab homine, vt est homo: hæc dicitur ab homine, vt est Christianus.
+
+REGVLÆ.
+
+I. Diuisiones generales disciplinarum mirificè illustrant singularum naturam & vsum.
+Nam quia sunt generales, possunt & debent singulis applicari. e.g. Logica est disciplina directiua, poëtica, &c. 
+Applicantur autem vel copulatiue, vel disiunctiuè. 
+Copulatiue, quatenus omnis disciplina est externa & interna, archetypa & ectypa, &c. 
+Disiunctiuè, seu alternatiue; quatenus hæc vel illa disciplina est architectonica, vel subdita; theoretica, practica, vel poëtica, &c.
+
+II. Omnis disciplina est interna, & externa.
+Ratio est, quia omnis disciplina consideratur vel vt habitus in mente, vel vt systema extra mentem. 
+Itaque hæc non est distributio generis in species, sed subiecti ex suis adiunctis.
+
+III. Omnis disciplina est archetypa & ectypa.
+Nam aut habitualis disciplina est archetypum disciplinæ systematicæ, aut contrà disciplina systematica est archetypum disciplinæ habitualis. 
+Ita v.g. Logica habitualis in mente Aristotelis est archetypa. 
+Logica, quam chartis mandauit, est ectypa: sed eadem est archetypa, quatenus peperit Logicam ectypam habitualem in mente discipulorum.
+
+IV. Disciplinæ architectonicæ sunt, quæ præditæ sunt imperio theoretico, vel practico, vel poetico.
+Imperium theoreticum est solius Metaphysicæ: imperium practicum est Politicæ, & Theologiæ: imperium poeticum est Logicæ, quatenus illa non quidem rebus ipsis imperat, sed menti nostræ ostendit normas, quibus illas subiiciat.
+
+V. Disciplina una & eadem est generalis, & specialis.
+Nam ut in hâc Encyclopædiâ videre est, omnes & singulæ disciplinæ diuiduntur in partem generalem, & specialem: quia nempe subiectum & finem suum explicant partim in genere, partim in specie. 
+Etsi verò res ita se habet: tamen quædam disciplinæ respectu aliarum rectè dicuntur generales. 
+e.g. Metaphysica est generalis, reliquæ sunt speciales, si veniant in comparationem cum Metaphysicâ. 
+Sic Ethica est generalis respectu Œconomicæ & Politicæ.
+
+VI. Nulla disciplina propriè dicta potest esse theoretica, & practica, si vocabula ista pressè accipiantur; secus, si latè.
+Ratio prioris partis est, quia theoria & praxis hoc modo distinguuntur specie. 
+Iam verò omnis disciplina propriè dicta est una specie. 
+Itaque disciplina theoretica est pure theoretica; & practica est pure practica. 
+Ratio posterioris partis est, quia theoria & praxis hoc modo non distinguuntur specie, sed tantum gradu. 
+Nam omnis disciplina constat theoriâ, id est, cognitione præceptorum; & praxi, hoc est, vsu præceptorum. 
+Itaque hoc sensu omnis disciplina est theoretica, & practica.
+Et hinc quoque omnis disciplina est docens & vtens.
+Quod attinet ad reliquas diuisiones generales, illæ in sequentibus explicantur.
