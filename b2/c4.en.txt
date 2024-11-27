@@ -224,3 +224,64 @@ These collected sparks form a great body of fire and flame from which illustriou
 From these definitions, rejecting those that should be rejected, we have constructed such a one: Philosophy is the comprehension of the lower liberal disciplines; which others call studies of humanity.
 Comprehension, I say, either expressed in writing or impressed upon the mind.
 In this way, philosophy is a system of many systems; in that way, it is a mixed habit, or a constant collection of many habits.
+
+XI. In establishing the order of philosophical disciplines, it is very useful to compare the various divisions of various authors among themselves and to prefer that which agrees with the subject, object, and purpose of Philosophy. 
+Philosophy is a whole and indeed a collection, the nature of which cannot be fully understood without a suitable division. 
+However, we will only achieve this if we first briefly gather the more famous distributions of ancient and recent philosophers, and then choose that which agrees with the subject, object, and purpose of Philosophy. 
+To begin with, concerning the ancient divisions of philosophy, the division of Zeno and Chrysippus, and indeed of the Stoics, who especially followed these two authors, is noted: Laërtius recounts in book 7. about the defects of philosophers, that they divided philosophy into Logic, Physics, and Ethics. 
+They said Logic was the fence of all philosophy against the attacks of insolent sophists; Physics they compared to a garden, in which flowers and trees of all kinds are seen; Ethics they likened to the sky, which nourished that garden. 
+They also said that philosophy was like an animal, whose bones are akin to Logic, flesh to Ethics, and soul to Physics; likewise like a city, in which Logic performs the role of walls, Physics of citizens, Ethics of laws. 
+Cicero, nevertheless, attributes this division to Plato in Acad. quaest. 1 with these words: There was, I say, a threefold plan of philosophy received from Plato: one concerning life and morals; another about nature and hidden things; the third about debate. 
+And in de Orat. to Quintus, the brother, he says: All philosophy is distributed into three parts: into the obscurity of nature, into the subtlety of debating, into life and morals. 
+But because this division does not occur in the writings of Plato, Cicero perhaps had regard to this, that all of Plato's dialogues are either moral, such as Alcibiades, or natural, such as Timaeus, or dialectical, such as Parmenides. 
+However, in Plato's writings, this division of philosophy occurs, that it is either propagéa or paedia. 
+Propagéa is that which prepares the mind for more serious disciplines and is completed by arts strictly spoken. 
+Paedia encompasses the sciences and prudences themselves. 
+From Cicero’s rhetorical partitions and the last book of topics to Trebatius, a technology is thus nearly gathered: that disciplines are either defined and special, or undefined and general. 
+Regarding recent authors, their chief technologies are these: the most renowned division, by which philosophy is divided into Natural, Moral, and Dialectical. 
+See the Coimbra College in the preface to Aristotle’s Physics and Possevin in book 2. of the library, chapter 3. This is succeeded by that whereby philosophical disciplines are divided into theoretical and practical: and practical into moral, which direct the actions of the will, and effectual or poetic, which direct the actions of the intellect; and these are subdivided into internal or liberal, and external or mechanical, whose divisions are fourfold. 
+Firstly, some prepare the material, as purifying metals; others accomplish the work, as manufacturing weapons; others use the completed work, as Military. 
+Then, some are principal and almost masters of others, such as Architecture; others are subservient and subjected, or Masonry. 
+Thirdly, some leave no completed work after the action, such as the art of guitar players; others do, of which three kinds are handed down. 
+For some create new things, like the art of potters; others restore the collapsed, like Surgery; others provide both, like the art of building. 
+Fourthly, some are arranged for providing necessities, as Baking; others for a better or more pleasant life, as Gladiatorial games, to sustain life, and for delight, Perfumery. 
+Thirdly, some divide philosophical disciplines into superior, such as Moral and Natural sciences; and inferior, such as the seven liberal arts, which are divided into the trivium and quadrivium. 
+There are Grammar, Rhetoric & Dialectic; here Arithmetic, Geometry, Astrology, & Music. 
+Fourthly, some divide philosophy into an organic part and inorganic. The former encompasses arts in the strict sense of the term: the latter is divided into speculative and active. 
+This division coincides with that by which philosophy is divided into directive disciplines (others call them normative and instrumental) and objective or real. 
+Philosophy is also divided in the same sense into a general part, which comprises arts; and a special part, which contains sciences and prudences. 
+Others divide philosophy into theoretical and practical parts, excluding arts, which they say are not parts but instruments of philosophy. 
+This is Keckermann’s view in book 1. of preliminary philosophy, chapter 2. Furthermore, Timpler in chapter 3 of technology subdivides liberal art into principal and less principal: the principal into theological and philosophical; the less principal he calls philological. 
+Toletus in the prolegomena to the organ divides philosophy into three parts: Speculative, Active, and Technical.
+Some followers of Ramus make some arts of speech, others of reason. 
+From all these divisions of philosophy, both old and recent, the best of all is that which divides philosophical disciplines (with the term philosophy indeed broadly accepted) into theoretical, practical, and poetic: or if you prefer a dichotomy, which divides philosophy into theoretical and practical: and subdivides the latter into active and constructive. 
+For this division agrees with the subject, object, and purpose of philosophy. 
+It also agrees with the rules of Logic, and is ultimately approved by classical philosophers. 
+For firstly, the subject of instruction in philosophy is the soul of man, which is perceived to have three duties, namely to contemplate, to act upon the precept of virtue, and to do those things which make this life easier. 
+Since therefore the human soul is that to which all philosophy is destined (hence Platonic philosophy is "theoretical virtues of the soul"), assuredly it is necessary that philosophy and its parts be arranged and distributed according to the duties of the soul: namely that a part of philosophy should be theoretical, which teaches the way of clear understanding; another practical, which teaches the way of living well and happily; and finally another poetic, which teaches the way of easily acquiring both theory and practice. 
+Secondly, the object or subject of discussion (which is usually called external, whereas the former subject is called internal) in philosophy are things themselves, which can be very rightly reduced to two classes, such that some are necessary, others contingent. 
+Necessary things are God and what God has produced, such that man can produce them by no wisdom or art, but only contemplate them. 
+They are otherwise called immutable things, because they cannot be changed by man. 
+Thus no man, however great a monarch, can create heaven, earth, wind; nor can he prevent wind or rain. 
+Contingent things are those which man can not only know but also produce when he wishes: by the office of temperance and liberality man can not only know, but also by his will produce, that is, he can act temperately and liberally. 
+Likewise, he can establish a home and family, govern a state. 
+Hence these things are called mutable. 
+However, these contingent things are of two kinds: namely, actions of virtue and works of the liberal arts (we do not treat here of servile works) of which the former concern the will, the latter the poetic intellect. 
+Since therefore every thing which is treated in philosophy is either only knowable, or knowable and producible at the same time, and indeed producible either through prudence or through art, hence philosophy is rightly divided into contemplative, which deals with necessary things, and active, which explains actions of virtue; and constructive, which deals with artificial actions. 
+But, you ask, Geometry and all mathematical disciplines deal with things that can be made by human work, namely lines. 
+But, I say, this is done by reason of poetry, which accompanies the entire mathematics. 
+Thirdly, this division is confirmed by the purpose of philosophy, which is the knowledge of truth and the action of good. 
+The knowledge of truth is that which revolves around the truth in such a way that it rests in itself. 
+The action of good is either moral or artificial. 
+The knowledge of truth is sought in contemplative philosophy; the action of moral good in practice, the production of artificial good in poetry. 
+Contemplative indeed, absolutely considered, rests in knowing: while practical and poetic teach to know, not that we may rest there, but that we may express the known by moral or artificial work. 
+Moreover, this division agrees with the logical rules; which neither has a division broader than its own, nor narrower, and has parts different from one another. 
+For although in every discipline there is theory and practice, knowledge and use together: yet not every discipline is therefore both theoretical and practical at the same time. 
+For the knowledge or contemplation is either pure or mixed. 
+The former is strictly called, the latter broadly. 
+The former is the knowledge of a necessary thing, which cannot be produced by us; the latter is the knowledge of any thing, whether necessary or contingent. 
+And in the latter way, practical philosophy explains the nature, parts, and properties of virtue, the republic, etc., not that they may be known, but that they may be enacted. 
+Thus also the term of practice or use is ambiguous. 
+For if taken broadly, every discipline should have some use. 
+But strictly, use regards moral and artificial perfection: and so theoretical philosophy has no practice. 
+Finally, this division has the support of the greatest philosophers.
