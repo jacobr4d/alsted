@@ -70,15 +70,18 @@ The former includes Mnemonics, History, Chronology, and Architecture; the latter
 RULES.
 
 I. The number of disciplines is defined.  
+
 Because things knowable are finite, and likewise the method of knowing, it is necessary, therefore, that it be defined in terms of the names of sciences or disciplines.  
 As for the fact that mechanical arts are said to be infinite, this must be understood not strictly but rather approximately.  
 The same judgment applies to infinite mixtures or the "Quodlibets" of disciplines.
 
 II. One and the same person can engage in the study of various disciplines.  
+
 Firstly, there are certain subtle, fiery, heroic, etc., minds that, without any trouble, learn various disciplines; this is not given to ordinary, earthy, slow, etc., minds.  
 Furthermore, vocation or duty often requires the knowledge and use of more or fewer disciplines.
 
 III. The number of disciplines ought to be proportionate to the things to be learned, and likewise to the remedying of human imperfection.  
+
 Disciplines derive their name from learning.  
 Therefore, their number should be constituted from the variety of things to be learned.  
 This matter is indeed of great importance.  
@@ -100,16 +103,19 @@ The first is expelled by wisdom, the second by prudence, and courage enriches th
 Thus, all disciplines can be reduced to these three highest categories.
 
 IV. Philology and philosophy can be defined in two ways.  
+
 Firstly, they are considered absolutely, in themselves; in this sense, Philology is a system of liberal arts, which cultivates speech and reason with certain instruments: Philosophy is a system of sciences and wisdoms, which a man can attain through the light of nature.  
 Then they are considered relatively, as they serve the three higher faculties; in this way, Philology is a system of liberal instruments used by the three higher faculties: Philosophy is a system of sciences and wisdoms that prepare the mind for the three higher faculties.
 
 V. Philology is sometimes opposed to philosophy, sometimes it is a part of it.  
+
 This is expressed in Scholastic terms as follows: Philology and philosophy are taken oppositely or compositely.  
 Oppositely, in reference to those three highest categories and, so to speak, heads, all liberal disciplines are related to Philology, Philosophy, and Theology.  
 Compositely; as philosophy is divided into theoretical, practical, and poetic or organic.  
 Thus, Philology is a part of philosophy; because poetic philosophy is precisely Philology itself.
 
 VI. The term Philology is taken broadly or strictly.  
+
 Philology, taken broadly, is the study or love of letters.  
 Strictly, it is either the expertise of antiquity or the study or love of speaking or discussing.  
 In the former sense, Philology encompasses the knowledge of languages and disciplines that revolve around discourse, and, finally, the knowledge of antiquity.  
@@ -125,6 +131,7 @@ Finally, this term, again strictly, is taken to mean the comprehension of libera
 This notion is the one considered in this Encyclopedia.
 
 VII. The Term Philosophy Is Taken Generally and Specifically.
+
 In every legitimate discussion, an explanation of the word opens the doors, and specifically the liberation of it from ambiguity.
 Let us, therefore, remove the ambiguity of this word, which is φιλοσοφία (philosophy) and τῶν πολλαχῶς λεγομένων ("of the many things spoken").
 Firstly, however, the term philosophy is taken generally, and indeed either most broadly or less broadly. 
@@ -162,6 +169,7 @@ For the Scholastics understand the word adeptus in this way, as can be seen in S
 Here also it must not be passed over in silence, that the term philosophy is also accepted for a sect: as when Josephus in the 2nd "On the Jewish War," chapter 7 says that there are three kinds of philosophy, or three philosophies, that is, sects, among the Jews: namely the Pharisees, Sadducees, and Essenes.
 
 VIII. The Term Philosophy Has Pythagoras as Its Author, and Is Retained in Schools Not Because It Is So Apt, but Because It Is Already Accepted.
+
 It is known that philosophy is said to be from φιλεῖν (to love) and σοφία (wisdom): so that it is the love of wisdom, as Cicero interprets in the 2nd "On Duties."
 Therefore, that notation is more allusive than exact, that the philosopher is φύλαξ σοφίας (guardian of wisdom), so that it ought to be written as phylosophus.
 Moreover, σοφία (wisdom) and σοφὸς (wise) are rightly derived from σαφής (clear), because wisdom is clear and distinct knowledge by which the causes of things are known.
@@ -177,6 +185,7 @@ Then, we all can be philosophers, i.e., lovers of wisdom, even the rustic and co
 Although indeed this word is not altogether so apt, it nevertheless is not for that reason not to be used; since it is known that words are worth the same as coins.
 
 IX. Philosophy, as a Collective Entity, Cannot Be Perfectly Defined.
+
 Collective or aggregate entities encompass things of multiple categories or several things of a single category, distinct in species, and therefore do not admit a perfect definition.
 Examples are the world, an army, and a forest.
 Indeed, such things do not have a single essence on their own.
@@ -187,6 +196,7 @@ But I say, philosophy is a mixed habit composed of various habits differing in s
 See Julius Pacius in the prolegomena on Aristotle's Physics.
 
 X. Various Definitions of Philosophy Compared Among Themselves Provide an Approximation of Its Perfect Definition.
+
 Numerous definitions of philosophy circulate, which some simply reject.
 We think a comparison between them should be made, so that in this way it might be possible to arrive at a definition that is as close as possible to the perfect one.
 Let us, therefore, gather at least a few of the main ones.
@@ -226,6 +236,7 @@ Comprehension, I say, either expressed in writing or impressed upon the mind.
 In this way, philosophy is a system of many systems; in that way, it is a mixed habit, or a constant collection of many habits.
 
 XI. In establishing the order of philosophical disciplines, it is very useful to compare the various divisions of various authors among themselves and to prefer that which agrees with the subject, object, and purpose of Philosophy. 
+
 Philosophy is a whole and indeed a collection, the nature of which cannot be fully understood without a suitable division. 
 However, we will only achieve this if we first briefly gather the more famous distributions of ancient and recent philosophers, and then choose that which agrees with the subject, object, and purpose of Philosophy. 
 To begin with, concerning the ancient divisions of philosophy, the division of Zeno and Chrysippus, and indeed of the Stoics, who especially followed these two authors, is noted: Laërtius recounts in book 7. about the defects of philosophers, that they divided philosophy into Logic, Physics, and Ethics. 
@@ -340,6 +351,7 @@ But this contemplation is of a different kind than that considered in theoretica
 And in this sense, the contemplative life is more excellent than the practical, insofar as it is understood as contemplation following the action of virtue; which is commonly called Seraphic contemplation.
 
 XIII. The parts of theoretical philosophy are distinguished according to the variety of abstraction.  
+
 The reason is that different abstractions are necessarily accompanied by different kinds of knowability, as it is said, that is, modes of knowing.  
 Therefore, there are as many contemplative sciences, if you consider their heads, as there are abstractions.  
 There are, however, three abstractions in total.  
@@ -353,6 +365,7 @@ What we have said about abstraction from matter is understood similarly about se
 From these, it is understood that there are three principal parts of speculative philosophy: metaphysics, physics, and mathematics.
 
 XIV. Certain parts of philosophy are sometimes not called by this name, for five reasons.  
+
 Either because they deal with easier or less important matters; or because they are not content with the knowledge of truth itself; or because they do not seem to pertain to living well and happily; or because they do not concern things that subsist by themselves; or because they do not deliver the very first principles of the things they discuss.  
 Due to the first reason, mathematical disciplines are often not included among the parts of philosophy. Aristotle, Metaphysics 4, chapter 2. Plato, Republic 7. Cicero, On the Orator 1. Alexander at the beginning of the commentary on the first Analytics.  
 Due to the second reason, sometimes only the contemplative disciplines are considered worthy of the name of philosophy. Aristotle, Metaphysics 1, chapter 1.  
@@ -361,8 +374,170 @@ Due to the fourth, often only physical sciences are regarded as parts of philoso
 Due to the fifth, the name of philosophy is often attributed solely to first philosophy. Aristotle, Metaphysics 4, chapter 2 & chapter 3, texts 7 and 8.  
 Therefore, when we see that certain disciplines are excluded from the number of parts of philosophy for these and other reasons, we should not consider them to be simply rejected from the realm of philosophy.
 
-XV. The intermediate mathematical sciences are more mathematical than physical.  
+XV. The intermediate mathematical sciences are more mathematical than physical. 
+
 For insofar as their mode is mathematical, because they use the principles, maxims, and demonstrations of mathematics; but as for their object, they are natural.  
 However, the mode is prior in sciences than the object, because it is formal, while this is material.  
 An illustration of our assertion can be sought from the following table.
 
+XVI. Ethics is the first among practical disciplines: Politics the most honorable.
+
+Ethics in the expanse of practical philosophy is the first, if one considers the order of nature: since it is absolute, and contains the principles and as if the foundations of the remaining prudences, treating of the affections of the mind, of virtues and their actions, of the highest good and the ultimate end of man: without the knowledge and establishment of which things, the economic and political capacities cannot advance even a finger.  
+But if you look at excellence and distinction, Politics holds the first place.  
+Indeed, the others are referred to this as to the ultimate and end.  
+And this adapts the other disciplines to civil use, and thus practically arranges them, just as Metaphysics arranges them theoretically.  
+Economics, too, by nature is earlier than civil discipline: just as a part is earlier than the whole, and one than many.  
+Scholastic follows Politics closely: because the school is something subsequent to polity.  
+Against this order, there is an objection from Aristotle.  
+The good of man and of the state is the same.  
+Therefore, Ethics pertains to Politics.  
+But it is answered that Ethics is considered absolutely, insofar as it perfects man, or relatively, insofar as man is part of political society.  
+In the former manner, Ethics is prior to Politics, in the latter manner it is referred to Politics, as is Economics.  
+In this way, too, Economics pertains to Politics.
+
+XVII. Metaphysics is the first, and most noble of theoretical disciplines.
+
+First indeed; because most general.  
+Most noble, however; because it immediately commands the remaining theoretical disciplines by establishing their first principles and subject denominations.  
+The next rank of dignity is held by Pneumatics: as it treats of the uncreated and created spirit: which discipline, however, insofar as it treats of God, is more noble than Metaphysics.  
+Physics follows this: because after the treatment of spirit, the treatment of natural body is next.  
+Mathematics is in the last place: because the treatment of the accident is posterior to the treatment of substance.  
+For since substance holds the first place in things, sciences that deal with substance are considered more excellent than those that deal with accidents: and among the sciences of the former kind, those that consider substances free from matter.
+
+XVIII. Among poetic disciplines, Lexicography is the first, Logic the most noble.
+
+Lexicography is first because it deals with the meaning of words.  
+It is necessary, moreover, that words be known before things are proposed.  
+From Lexicography one comes to Grammar, because it is the one that explains the pure significations of words.  
+Logic follows this: which is prior to Rhetoric, because the doctrine of tropes entirely depends on Logic.  
+However, Rhetoric is mentioned before Logic, which is a discipline of discourse, and therefore is placed under one category with Lexicography and Grammar.  
+Furthermore, Oratory differs from Rhetoric, because Rhetoric only regards the embellishment of speech, while Oratory has the whole field of eloquence proposed to itself.  
+Poetics follows Oratory; because bound speech is later than free speech.  
+Of them all, however, Logic is the most noble; because it is the guide of reason.
+
+XIX. Metaphysics is last in the order of discovery.
+
+The reason is; because Metaphysics is the most general of the disciplines.  
+The most general, however, are last in the order of discovery.  
+Furthermore, the matters of Metaphysics are exceedingly simple.  
+Simple things, however, cannot be known by us except with the help of composites: because indeed they are known by us through abstraction.  
+By abstraction, I mean from material and sensible things.  
+Hence Physics and Mathematics are rightly declared to be before Metaphysics in the order of discovery.
+
+XX. Practical philosophy is prior in the order of discovery than theoretical.
+
+For since man is by nature a political animal and lived first in society, by impulse of nature he first attempted to remedy those defects which occur in society, and thus gave birth to practical philosophy along with servile arts, as is evident from Genesis 4.  
+Theoretical arts were invented later, and last of all, the liberal poetic arts.  
+For when man lived comfortably in society, he began to turn his mind to the contemplation of the works of God, from which came Physics and Astronomy.  
+And because in mechanical arts there were many defects, he devised the Mathematical disciplines.  
+But when he saw he could not progress so well in the contemplation of things, nor communicate his thoughts with others, he brought forth Logic and discursive arts.
+
+XXI. Metaphysics, in the order of precise discipline, is prior to all disciplines: Physics is prior to Mathematics: The entire theoretical philosophy is prior to the practical: the last of all is Poetic Philosophy.
+
+This is evident as follows.  
+Whatever is placed in nature and can be known by the light of nature is theoretical, practical, or poetic.  
+The former falls under contemplation, which is the first act of the soul; the latter under the action of moral good, which is the second act, because the action of moral or honest good follows the cognition of truth; this under the affection or action of artificial good, which is the last act.  
+Further, being truly is either general, like a being, that first and highest concept, which Metaphysics deals with, or special, which is either pure or mixed.  
+The pure is substance or accident.  
+Substance is either uncreated, of which theology speaks, or created, and this is either spirit or body.  
+The former is treated by Pneumatics, the latter by Physics.  
+The primary accident is quantity; hence Arithmetic and Geometry.  
+The special mixed being is the body along with quantity, or quality.  
+There is Cosmography, Uranometry, and Geography; here Optics and Music.  
+Thirdly, the thing is considered either generally outside society, as in Ethics; or specifically in society, as in Economics, Politics, and Scholastics.  
+In the last place is the poetic, which regards either speech or reason.  
+What regards speech and reason is either pure and simple, or intermediate and mixed.  
+The former regards either speech only, or reason only; the latter both.  
+In speech, there is signification, which Lexicography teaches; or connotation, either pure, of which Grammar is the teacher, or adorned, of which Rhetoric is the guide.  
+Logic informs reason.  
+Oratory and Poetics together direct both speech and reason.  
+Thus, the entire philosophy is divided into three classes; the first class is subdivided into ten families; the second has five territories; in the third, there are six provinces; so the circle or philosophical realm consists of twenty-one disciplines.  
+Moreover, Metaphysics, in the order of refined doctrine, is first of all disciplines: because it contains the most general terms.  
+General things are more knowable by nature, just as singular things are more knowable to us.  
+The order of precise doctrine agrees with the order of nature.  
+Further, Physics is prior to Mathematics in the refined order of doctrine.  
+For mathematical entities depend on natural things for their existence, in which they exist.  
+Each thing is perfectly understood through those things on which its existence depends.  
+And quantity, the first accident of corporeal substance, is not perfectly understood except through substance.  
+Furthermore, removing the proposition that the continuum is infinitely divisible, Geometry collapses, which everywhere supposes that from any point to any point, a line can be drawn.  
+Arithmetic also collapses, insofar as it is subject to the number of material things.  
+For quantity would not be continuous unless divided into always divisible parts.  
+Without continuous quantity, there would be no number of material things.  
+Furthermore, because much must necessarily be sought from the sources of nature and the contemplation of physical truth for moral philosophy, it is necessary for practical philosophy to be later than theoretical philosophy in the order of precise doctrine.  
+Finally, because poetic or instrumental disciplines are occupied with secondary notions and artificial works, which depend on primary notions and the contemplation of truth, they rightfully hold the last place in the order of refined doctrine.
+
+XXII. In the order of better teaching, disciplines hold the place that our frailty requires.
+
+We outline this order thus.  
+Schools are either pedagogical or gymnastics.  
+The former are intended for educating minors, the latter for those older and more advanced in age and judgment.  
+In pedagogical schools, besides the rudiments of piety, the arts of speech should first be taught and learned: Lexicography, Grammar, and part of Rhetoric; then Logic, Oratory, and Poetics; finally, the beginnings of Arithmetic and Music.  
+In gymnastics, which are called gymnasmata, a more comprehensive teaching of languages should be delivered, and thus the arts of speech and others impressed in pedagogical schools should be repeated here.  
+Then the body of the whole philosophy should be presented to the strengthened minds of the listeners, as if through anatomy, so that pure Mathematics, that is, Arithmetic and Geometry, are taught first: then Physics are added, followed by Pneumatics and Metaphysics.  
+Finally, practical philosophy should succeed as the conclusion of the philosophical course, from which a transition is made to some supreme capacity.  
+Let us examine the reasoning behind each.  
+Firstly, the arts of speech are the foremost of all in the order of better teaching: because disciplines nowadays are not taught in the vernacular language, as they once were.  
+Here you will note that the part of Rhetoric concerning figures can be conveniently proposed before Logic, but not tropology: because the latter depends on the cognition of logical arguments.  
+Secondly, pure Mathematics are prior to Physiology in the order of better teaching: because Mathematics aid the perception of other disciplines and there is less difficulty in learning them.  
+Hence, due to the ease of learning, they have made the common name of disciplines (μαθήματα) their own.  
+But Physics, since it investigates the hidden force of nature and largely depends on the vague and wandering knowledge of the senses, requires long observation and experience, and thus is much more difficult and labor-intensive.  
+Therefore, the ancients taught their children mathematics, and Aristotle, in Ethics 6, chapter 8, states that a child can become a mathematician but not a wise man or a physicist.  
+And Plato includes the mathematical disciplines among the musical, and barred those who were not trained in Mathematics, specifically Geometry, from his gymnasium, inscribing on the doors of the Academy: "Let no one ignorant of Geometry enter here."  
+Thirdly, Metaphysics and Pneumatics are the last of all sciences in the order of better teaching.  
+For the sciences that teach the most abstruse things and those removed from the habit of the senses should be learned last due to our frailty.  
+This is indeed the case with Metaphysics and Pneumatics.  
+In addition, the knowledge of what is treated in other sciences prepares and sharpens the mind for first philosophy, as Augustine explains in the second book of On Order, saying that human reason, when it aspires to know the higher things, should not attempt the ascent in vain or fall from a height, but should prepare itself with the inner disciplines as steps.  
+Thus the philosopher gradually ascends through other sciences to Metaphysics and Pneumatics.  
+Finally, practical philosophy is to be learned last in the order of better teaching.  
+Indeed, a more mature judgment is needed for the understanding of how to cultivate morals, manage a family, and establish a state, than to grasp physical learning and any theoretical knowledge.  
+And in those matters related to the discipline of life and the governance and moderation of human wills, experience is more deceptive and uncertain, and more arduous than in theoretical matters.  
+This relates to Aristotle's statement in Ethics 1, chapter 3, that a young person is by no means suitable to be a listener of moral discipline; because, in the realm of perturbations, reliable judgment about actions cannot be firm, and, while the mind fluctuates with the tide of desires, it does not grasp how to command vices, but becomes wise after attaining calm.  
+Additionally, many things must necessarily be sought from theoretical philosophy for moral philosophy, such as what the soul is, what affections are, what arithmetic and geometric proportion are.  
+For we cannot know, as Plato teaches in Alcibiades, how something should be cared for unless we first have its nature known and explored.  
+But moral philosophy is the healer of the soul and its evil affections.  
+Moreover, the moral philosopher must take from natural philosophy what the faculties of the soul are, so that he may instruct which should be subject to which, and in the action of which happiness lies.  
+Therefore, Aristotle often employs Physiology in forming the science of morals.
+
+XXIII. The course of Philosophy can be conveniently completed in a span of three years, if the foundation of Philology has been well laid in the school.
+
+For the theoretical philosophy can be completed in the first year and a half; the practical, in the second.  
+And thus, one can choose some supreme faculty to devote oneself entirely to.  
+For the three higher faculties, Theology, Jurisprudence, and Medicine, are later than philosophy itself in the order of doctrine: since they utilize its terms and principles.  
+But if someone has chosen a philosophical way of life, wishing to teach that faculty, three years will not be sufficient, as discussed in the Didactics.
+
+XXIV. Among the three higher faculties, two orders are primarily considered.
+
+The first order is of dignity, which these faculties obtain in regard to man as he is a man, whose perfection depends on the goods of the soul, body, and fortune, as they call it.  
+In this regard, Theology holds the first place, Medicine the second, and Jurisprudence the third.  
+The second order is of dignity, which these very faculties obtain in regard to man as he is part of society.  
+And here Jurisprudence holds the first place, because it defends Theology and Medicine.
+
+XXV. Among the mechanical arts, the order of nature and dignity should be constituted in the same way as among the liberal arts.
+
+For in the order of nature, those mechanical arts are prior which are simpler, that is, whose principles are simpler.  
+Then those are more dignified whose subjects and ends are more excellent.  
+Regarding the order of discovery, it should be inferred from Chronology.
+
+XXVI. Among the conglomerates of disciplines, the order depends on two principles.
+
+The first is of this kind: The conglomerates of disciplines are prior which are closer to homogeneous disciplines.  
+For they are also the disciplines properly called.  
+By this name, these four are considered: Mnemonics, History, Chronology, and Architecture.  
+The second principle is: The conglomerates of disciplines that are not notably named disciplines properly speaking are considered prior, from which the knowledge of others depends.  
+Thus, if you compare Alchemy and Kabbalah, the former depends on the latter.
+
+CONCLUSION OF TECHNOLOGY.
+
+Such is Technology, the second part of the Cyclopaedic alphabet; which presents to us the provinces of our estate, and their knowledge and distinction.  
+Unless one has preconceived this in one's mind, it is impossible to engage in the study of disciplines with affection or progress.  
+For how, I ask, will you love and admire a discipline if you do not know its place in this realm?  
+How, moreover, will you learn that discipline fruitfully if you do not grasp its affections, agreements, and differences?
+
+Structure of Technology
+
+Technology  
+├── General explains the disciplines 
+│   ├── Properties. chapter 1.  
+│   ├── Order. chapter 2.  
+│   └── General divisions. chapter 3.  
+└── Special elucidates the number of disciplines. chapter 4.

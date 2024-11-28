@@ -70,15 +70,18 @@ Illa est Mnemonica, Historica, Chronologia, & Architectonica: hîc est Paradoxol
 REGVLÆ.
 
 I. Disciplinarum numerus est definitus.
+
 Quia scibilia sunt finita; itemque modus sciendi, necessè quoque est, ut sit definitus nomine scientiarum, sive disciplinarum.
 Quod autem artes mechanicæ dicuntur infinitæ, id non ἀπλῶς, sed σχεδὸν est accipiendum.
 Idem iudicium est de infinitis farraginibus, seu Quodlibetis disciplinarum.
 
 II. Unus idemque homo potest se occupare cognitione variarum disciplinarum.
+
 Primo enim sunt ingenia quædam subtilia, ignea, heroica, &c. quæ sine ullo negotio varias disciplinas addiscunt: id quod vulgaribus, terreis, tardis, &c. ingeniis non est datum.
 Deinde vocatio, seu officium; sæpenumero requirit cognitionem & usum plurium, vel pauciorum disciplinarum.
 
 III. Numerus disciplinarum debet esse adæquatus rebus discendis; itemque sanandæ imperfectioni hominis.
+
 Disciplinæ nomen habent a discendo.
 Itaque numerus ipsarum debet constitui ex varietate rerum discendarum.
 Qua quidem in re multum est situm.
@@ -100,16 +103,19 @@ Illam expellit σωφία; istam φρόνησις; hanc, ἀνδρεία μὲν
 Omnes itaque disciplinæ ad ista tria summa genera possunt reduci.
 
 IV. Philologia & philosophia duobus modis possunt definiri.
+
 Primò considerantur absolutè, in sese; atque hâc ratione Philologia est systema artium liberalium, quæ certis instrumentis excolunt orationem & rationem: Philosophia est systema scientiarum & prudentiarum; quas lumine naturæ homo potest assequi.
 Deinde considerantur relatè, quatenus inseruiunt tribus superioribus facultatibus; atque hoc modo Philologia est systema instrumentorum liberalium, quibus utuntur tres superiores facultates: Philosophia est systema scientiarum & prudentiarum, quæ præparant animum ad tres superiores facultates.
 
 V. Philologia nunc opponitur philosophiæ, nunc est ipsius pars.
+
 Hoc est, quod Scholasticis terminis ita enuntiatur: Philologia & philosophia sumuntur oppositè, vel compositè.
 Oppositè, quatenus ad tria ista summa genera & quasi capita, Philologiam, Philosophiam, & Theologiam, omnes disciplinæ liberales referuntur.
 Compositè; quatenus philosophia dividitur in theoricam, practicam, & poëticam, sive organicam.
 Ita enim Philologia est pars philosophiæ; quia nempe philosophia poëtica est ipsissima Philologia.
 
 VI. Philologiæ vox sumitur latè, vel strictè.
+
 Philologia latè sumta est studium, seu amor literarum.
 Strictè est vel peritia antiquitatis; vel studium seu amor loquendi, aut disserendi.
 Priori significatu Philologia complectitur cognitionem linguarum, & disciplinarum quæ circa τὸ λόγον versantur, & denique notitiam antiquitatis.
@@ -125,6 +131,7 @@ Denique iterum strictè sumitur hæc vox, pro comprehensione artium liberalium, 
 Quæ notio in hâc Encyclopædiâ attenditur.
 
 VII. Philosophiae vocabulum sumitur generaliter, & specialiter.
+
 In omni legitimâ tractatione fores pandit explicatio vocis, & nominatim liberatio ipsius ab ambiguitate. 
 Tollamus itaque ambiguitatem huius vocis, quæ est φιλοσοφία et τῶν πολλαχῶς λεγομένων. 
 Principio autem philosophiæ vocabulum sumitur generaliter, & quidem vel latissimè, vel minùs late. 
@@ -162,6 +169,7 @@ Sic enim Scholastici accipiunt vocem illam adeptus, ut videre licet apud Scalige
 Hic quoque non est silentio prætereundum, philosophiæ vocabulum pro sectâ quoque accipi: ut quando Iosephus 2. de bello Iud. cap. 7. dicit, tria esse genera philosophiæ, seu tres philosophias, id est, sectas, apud Iudæos: videl. Pharisæos, Sadducæos, & Essæos.
 
 VIII. Philosophiæ vocabulum authorem habet Pythagoram; & retinetur in scholis, non quòd itâ sit aptum, sed quia iam est receptum.
+
 Philosophiam dici à φιλεῖν & σοφία notum est: ita ut sit amor sapientiæ, quemadmodum Cic. 2. Offic. interpretatur.
 Allusiva igitur potiùs quàm exacta est illa notatio, quòd philosophus sit φύλαξ σοφίας, ita ut debeat scribi phylosophus.
 Porro σοφία & σοφὸς rectè deducuntur à σαφής, id est, clarus; quia sapientia est clara & distincta notitia, quâ rerum causæ cognoscuntur.
@@ -177,6 +185,7 @@ Deinde, omnes possimus esse philosophi, i.e. amatores sapientiæ, etiam rustici 
 Tametsi vero hæc vox non est usque adeo apta: non tamen ideo non usurpanda; cum notum sit illud, Vocabula valent rerum instar nummorum.
 
 IX. Philosophia tanquam ens collectivum, non potest perfectè definiri.
+
 Entia collectiva seu aggregata complectuntur res plurium prædicamentorum, vel res plures unius prædicamenti, specie distinctas, ideóque perfectam definitionem non admittunt.
 Exemplo sint mundus, exercitus, & sylva.
 Etenim hæc talia non habent unam per se essentiam.
@@ -187,6 +196,7 @@ Sed, inquam, philosophia est habitus mixtus ex variis habitibus essentiâ specif
 Vide Iulium Pacium in prolegom. super phys. Arist.
 
 X. Variæ definitiones philosophiæ inter se collatæ suppeditant ipsius definitionem perfectæ proximam.
+
 Plurimæ circumferuntur definitiones philosophiæ: quas nonnulli simpliciter reiiciunt.
 Nos existimamus, collationem inter illas esse instituendam, ut hâc ratione perveniri possit ad definitionem, quæ sit quam proxima perfectæ.
 Colligamus igitur aliquot præcipuas saltem.
@@ -226,6 +236,7 @@ Comprehensio, inquam, vel scripto expressa, vel animo impressa.
 Illo modo philosophia est systema multorum systematum: isto est habitus mixtus, sive constans multorum habituum collectione.
 
 XI. In ordine disciplinarum philosophicarum constituendo magnum est operae pretium varias variorum authorum partitiones inter sese conferre, & illam reliquis anteferre, quae convenit cum subjecto, objecto, & fine Philosophiae.
+
 Philosophia est totum & quidem collectium, cujus natura plene non potest intelligi sine partitione commoda. 
 Hanc autem tum demum consequemur, si primo veterum & recentiorum philosophorum celebriores distributiones breviter colligamus, & deinde illam seligamus, quae cum subjecto, objecto, & fine Philosophiae convenit. 
 Principio, quod ad vetustas philosophiae partitiones attinet, occurrit partitio Zenonis & Chrysippi, atque adeo Stoicorum, qui duos istos authores praecipue secuti sunt: de quibus refert Laërtius lib. 7. de vitiis philosophorum, quod philosophiam partiti sint in Logicam, Physicam, & Ethicam. 
@@ -340,6 +351,7 @@ Sed hæc contemplatio est alius generis, quam illa quæ consideratur in philosop
 Et hoc sensu vita contemplativa est praestantior quam practica, quatenus nempe intelligitur contemplatio, quæ sequitur actionem virtutis; quæque vulgato dicitur contemplatio Seraphica.
 
 XIII. Philosophiae theoretica partes distinguuntur pro varietate abstractionis.
+
 Ratio est, quia diversam abstractionem necessario comitantur diversae scibilitates, ut loquuntur, id est, modi cognoscendi. 
 Tot igitur sunt scientiae contemplativae, si capita ipsarum respicias, quot sunt abstractiones. 
 Sunt autem tres in universum abstractiones. 
@@ -353,6 +365,7 @@ Quod autem diximus de abstractione a materia, similiter de separatione a motu in
 Ex his efficitur, tres esse inspectricis philosophiae partes principes, metaphysicam, physicam, et mathematicam.
 
 XIV. Quaedam philosophiae partes interdum hoc nomine non appellantur, ob quinque causas.
+
 Vel quia de rebus facilioribus, aut minoris momenti tractant: vel quia non sunt ipsam veritatis cognitione contentae: vel quia non videntur pertinere ad bene beateque vivendum: vel quia non agunt de rebus per se subsistentibus: vel quia non tradunt prima omnino principia rerum, de quibus agunt.
 Propter primam causam saepe mathematicae disciplinae non numerantur in partibus philosophiae. Aristot. 4. metaph. cap. 2. Plato 7. de rep. Cic. 1. de orat. Alexander initio commentar. in 1. analys. 
 Propter secundam causam, nonnunquam solae etiam solae contemplativae disciplinae nomine philosophiae habentur dignae. Arist. 1. metaph. cap. 1. 
@@ -362,11 +375,13 @@ Propter quintam non raro tribuitur philosophiae appellatio soli primae philosoph
 Cum igitur his & aliis de causis videmus quasdam disciplinas a numero partium philosophiae excludi, non debemus existimare illas simpliciter reici ex regno philosophiae.
 
 XV.  Mediæ scientiæ mathematicæ magis sunt mathematicæ quam physicæ.
+
 Nam quantum ad modum sunt mathematicæ, quia mathematicorum principiis, maximis, & demonstrationibus utuntur: quantum verò ad obiectum, sunt naturales.
 Modus autem prior est in scientiis, quam obiectum: quia ille est formale, hoc materiale.
 Huius nostræ assertionis illustratio peti potest è seq. tabula.
 
 XVI. Ethica est prima inter disciplinas practicas: Politica dignissima.
+
 Ethica in latifundio philosophiæ practicæ est prima, si quis animum attendat ad ordinem naturæ: quippe quæ est absoluta, & continet principia & quasi fundamenta reliquarum prudentiarum, agens de affectionibus animi, de virtutibus & illarum actionibus, de summo bono & ultimo fine hominis: quibus rebus non ante cognitis atque constitutis, facultas œconomica & politica, ne digitum quidem progredi possunt.  
 Si verò spectes excellentiam, atque præstantiam, Politica prima tenet.  
 Etenim ad hanc cæteræ, tanquam extremum & finem referuntur.  
@@ -374,4 +389,155 @@ Et hæc reliquas disciplinas ad civilem usum accommodat, adeóque practicè ordi
 Œconomica quoque naturâ prior est quam civilis disciplina: veluti pars est prior toto, & unum multis.  
 Scholastica proximè sequitur Politicam: quia schola est aliquid posterius politiâ.  
 Contra hunc ordinem sic objicitur ex Aristotele.  
-Idem
+Idem est bonum hominis & ciuitatis. 
+Ergo Ethica ad Politicam pertinet. 
+Sed respondetur, Ethicam considerari absolutè, quatenus perficit hominem, vel relatè, quatenus homo est pars societatis politicae. 
+Priori modo Ethica est prior Politicâ, posteriori modo ad Politicam, ut & Οἰκονομικὰν, refertur. 
+Quo pacto etiam Οἰκονομικὰ pertinet ad Politicam.
+
+XVII. Metaphysica est prima, & nobilissima inter disciplinas theoreticas.
+
+Prima quidem; quia generalissima. 
+Nobilissima verò; quia immediatè imperat reliquis disciplinis theoreticis, constituendo illarum principia prima & subiecta denominata. 
+Proximum dignitatis gradum obtinet Pneumatica: utpote quae tractat de spiritu increato & creato: qua tamen disciplina, quatenus de Deo tractat, nobilior est Metaphysicâ. 
+Hanc excipit Physica: quia post tractationem spiritus proxima est tractatio corporis naturalis. 
+Ultimo loco est Mathematica: quia tractatio accidentis posterior est tractatione substantiae. 
+Cùm enim substantia in rebus primas teneat, præstantiores habentur ex scientiæ, quæ circa substantiam, quàm quæ circa accidentia versantur: & inter scientias prioris generis, quæ substantias à materia liberas considerant.
+
+XVIII. Inter disciplinas poëticas prima est Lexica, nobilissima Logica.
+
+Lexica prima est, quia tractat de vocum significatione. 
+Necesse autem est, ut prius voces sciantur, quam res proponantur. 
+A Lexicâ venitur ad Grammaticam, quia illius est explicare vocum adsignificationes puras. 
+Hanc excipit Logica: quæ prior est quam Rhetorica, quod doctrina troporum omninò pendeat à Logicis. 
+Rhetorica tamen priori loco commemoratur quam Logica, quæ est disciplina sermocinatirx, ideòque sub uno signo cum Lexicâ & Grammaticâ statuitur. 
+Porro Oratoria differt à Rhetoricâ; quia Rhetorica duntaxat spectat ornatum orationis, Oratoria totum eloquentiæ campum sibi habet propositum. 
+Poëtica sequitur Oratoriam; quia oratio ligata posterior est solutâ. 
+Omnium tamen nobilissima est Logica; quia est directrix rationis.
+
+XIX. Metaphysica est postrema ordine inventionis.
+
+Ratio est; quia Metaphysica est disciplinarum generalissima.
+Generalissima autem sunt ultima inventionis ordine.
+Deinde materiæ Metaphysicæ sunt admodum simplices.
+Res autem simplices a nobis non possunt cognosci, nisi adminiculo compositorum: quia nempe per abstractionem a nobis cognoscuntur.
+Per abstractionem dico a rebus materialibus & sensilibus.
+Hinc Physica & Mathematica rectè prædicantur priores Metaphysicâ, ordine inventionis.
+
+XX. Philosophia practica est prior ordine inventionis, quam theoretica.
+
+Nam quia homo naturâ est animal politicum, & in societate primò vixit, impulsu naturæ conatus est primò mederi defectibus illis, qui accidunt in societate, atque ita peperit philosophiam practicam unà cum artibus servilibus, ut constat ex Genesis 4.
+Postea inventæ sunt artes theoreticæ, & omnium ultimo poëticæ liberales.
+Nam cùm homo commodè viveret in societate, cœpit animum adicere ad contemplationem operum Dei, unde Physica & Astronomia.
+Et quia in artibus mechanicis multi fuêre defectus, Mathematicas disciplinas excogitavit.
+Cùm autem videret se non ita bene posse progredi in contemplatione rerum, neque sensa animi cum aliis communicare, peperit Logicam & artes sermocinatrices.
+
+XXI. Metaphysica accurata disciplinæ ordine prior est omnibus disciplinis: Physica prior est Mathematica: Philosophia theoretica universa est prior quam practica: omnium ultima est Philosophia poëtica.
+
+Hoc ita patet. 
+Quidquid in naturâ positum est, & lumine naturæ cognosci potest, id est, θεωρητικόν, πρακτικόν, vel ποιητικόν. 
+Illud cadit sub contemplationem, qui est primus actus animæ: istud sub actionem boni moralis, qui est secundus actus; quia cognitionem veri sequitur actio boni honesti sive moralis; hoc sub affectionem sive actionem boni artificialis, qui est ultimus actus. 
+Deinde τὸ ὄντως ὄν est vel generalissimum, ut ens, primus ille & summus conceptus, de quo Metaphysica: vel speciale, quod est vel purum, vel mixtum. 
+Purum est substantia vel accidens. 
+Substantia est vel increata, de quâ theologia; vel creata, & hæc vel spiritus, vel corpus. 
+De illo tractat Pneumatica, de hoc Physica.
+Accidens primum est quantitas; unde Arithmetica & Geometria. 
+Τὸ ὄντως ὄν speciale mixtum est corpus unà cum quantitate, vel qualitate.
+Ibi est Cosmographia, Uranometria, & Geographia; hic Optica & Musica. 
+Tertio τὸ πράγματος consideteratur vel generaliter extra societatem, ut in Ethica; vel specialiter in societate, ut in Oeconomica, Politica, & Scholastica. 
+Ultimo loco est τὸ ποιητικόν, quod respicit vel orationem, vel rationem. 
+Quod respicit orationem & rationem, est vel purum & simplex, vel medium & mixtum. 
+Illud respicit vel orationem tantum, vel rationem tantum: hoc utraque. 
+In oratione est significatio, quam docet Lexica: vel adsignificatio, eaque tum pura, cuius magistra est Grammatica, tum ornata, cuius norma est Rhetorica. 
+Rationem informat Logica. 
+Orationem & rationem simul dirigunt Oratoria & Poëtica. 
+Itaque universa philosophia dividitur in tres classes; e quibus prima classis subdividitur in decem familias; secunda classis habet quinque territoria; in tertia classe sunt sex provinciae; ita ut circulus sive regnum philosophicum constet XXI. disciplinis. 
+Cæterum Metaphysica ordine doctrinæ exquisitæ est prima omnium disciplinarum: quia continet generalissimos terminos. 
+Generalia autem sunt γνωριμώτερα φύσει, notiora naturâ, quemadmodum singularia sunt γνωριμώτερα ἡμῖν, notiora nobis. 
+Ordo autem accuratæ doctrinæ consentaneus est ordini naturæ. 
+Deinde Physica est prior Mathematicis exquisito doctrinæ ordine. 
+Nam entia Mathematica pendent in suo esse a rebus naturalibus, in quibus existunt. 
+Unaquæque autem res per ea perfecte intelligitur, quae eius esse pendant in suo esse. 
+Et quantitas, primum accidens substantiæ corporeæ, non intelligitur perfecte nisi per substantiam. 
+Porro sublato pronuntiato illo, Continuum esse divisibile in infinitum, corruit Geometria, quæ ubique supponit, a quolibet puncto in quemlibet punctum ducere lineam. 
+Corruit etiam Arithmetica, quatenus ei subiectus est numerus materialium. 
+Neque enim quantitas esset continua, nisi divideretur in semper divisibilia. 
+Sublatâ autem quantitate continuâ nullus esset numerus rerum materialium. 
+Præterea quia multa ex naturæ fontibus & physicae veritatis contemplatione ad moralem philosophiam necessario petenda sunt, ut quid sit anima, quid affectus, philosophiam practicam ordine accuratæ doctrinæ posteriorem esse theoreticâ necesse est. 
+Ad extremum, quia disciplinæ poëticæ sive instrumentales occupantur circa notiones secundas & opera artificialia, quæ pendent a notionibus primis & contemplatione veritatis, merito illis tribuitur ultimus locus in ordine doctrinæ exquisitæ.
+
+XXII. In ordine melioris doctrinæ eum locum obtinent disciplinæ, quem requirit imbecillitas nostra.
+
+Hunc ordinem ita circumscribimus. 
+Gymnasia sunt vel παιδαγωγεία, vel gymnasmata. 
+Illa minoribus erudiendis destinantur, hæc grandioribus & provectioribus tum ætate tum iudicio. 
+In pædagogeis præter rudimenta pietatis docendæ sunt primò & discendæ artes orationis, Lexica, Grammatica, & pars Rhetoricæ: tum Logica, Oratoria & Poëtica: denique initia Arithmeticæ & Musicæ. 
+In gymnasiis, quæ dicuntur gymnasmata, linguarum doctrina uberior tradenda, ideóque artes orationis & reliquæ in pædagogeis inculcatæ, hic repetendæ. 
+Tum corpus totius philosophiæ, quasi per anatomen, confirmatis auditorum mentibus proponendum, ita quidem ut Mathematica pura, quæ vocantur, id est, Arithmetica & Geometria, primo loco tradantur: dehinc Physica adiiciantur, tum Pneumatica & Metaphysica. 
+His denique succedat philosophia practica, tanquam colophon cursus philosophici, à quo transitus fiat ad facultatem aliquam summam. 
+Rationem singulorum videamus. 
+Principiò artes orationis ordine melioris doctrinæ sunt omnium primæ: quia disciplinæ nunc temporis non traduntur in linguâ vernaculâ, quemadmodum olim. 
+Ubi notabis Rhetoricæ partem de figuris commodè proponi posse ante Logicam, tropologiam non item: eò quod hæc pendeat a cognitione argumentorum Logicorum. 
+Deinde Mathematica pura ordine melioris doctrinæ prior est quam Physiologia; quia Mathematica iuvant ad perceptionem aliarum disciplinarum, & in iis addiscendis minus est negoti. 
+Vnde propter addiscendi facilitatem, commune disciplinarum nomen (μαθήματα) fecere suum. 
+At Physica cum reconditam naturæ vim scrutetur, & à vagâ atque errabundâ sensuum notitiâ maximam partem pendeat, longi temporis observationem requirit atque experientiam, proindeque multo est difficilior & operosior. 
+Ideò veteres pueris suis explicarant mathemata: & Aristoteles 6. Eth. c. 8. ait, puerum fieri mathematicum, sapientem vel physicum non posse. 
+Et Plato mathematicas disciplinas accenset μουσικῷδεῖ, illósque, qui mathematicis, ac nominatim Geometricis, imbuti non essent, à gymnasio suo arcuit, inscriptis Academiæ foribus hisce verbis: μηδεὶς ἀγεωμέτρητος εἰσίτω, Nemo Geometriæ ignarus huc ingrediatur. 
+Tertiò Metaphysica & Pneumatica ordine melioris doctrinæ sunt omnium scientiarum postremæ. 
+Nam quæ scientiæ res maximè abstrusas, & à sensuum consuetudine remotas tradunt, eæ postremo loco, propter nostram imbecillitatem, addiscendæ sunt. 
+Ita verò se habent Metaphysica & Pneumatica. 
+Adde, quod eorum, quæ in aliis scientiis pertractantur, notitia, ad primam philosophiam præparat animum & acuit, ut Augustinus 2. lib. de ordine edisserit, aiens, humaniam rationem, cum ad ea, quæ altiora sunt, agnosceret adspiraret, ne ascensum frustra moliretur, neve de alto caderet, interiores disciplinas sibi tanquam gradus pararet. 
+Philosophus itaque per alias scientias gradatim ad Metaphysicam & Pneumaticam ascendit. 
+Denique Philosophia practica ultimo loco discenda est, ordine melioris doctrinæ. 
+Maturiori quippe opus est iudicio ad eorum intelligentiam, quibus componendi sunt mores, regenda familia, instituenda resp., quam ad capessendum eruditionem physicam & omnino theoreticam. 
+Et in iis, quæ ad vitæ disciplinam, & regendas ac moderandas hominum voluntates pertinent, fallacior est & incertior, & magis ardua experientia, quam in theoreticis. 
+Quo spectat illud Aristotelis 1. Ethic. c. 3. iuvenem haudquaquam esse idoneum moralis disciplinæ auditorem; quia nimirum in perturbationum regno non potest esse firmum de rebus agendis iudicium, dumque reciprocnte cupiditatum æstu animus fluctuat, quo pacto vitiis imperandum sit, non capit, sed post adeptam quietem prudens fit. 
+Huc accedit, quod multa ex philosophia theoretica ad moralem philosophiam necessario petenda sunt, ut quid sit anima, quid affectus, quid proportio Arithmetica & Geometrica. 
+Nec enim, ut Plato docet in Alcibiade, scire possumus, quomodo aliquid curandum sit, nisi eius naturam cognitamn atque exploratam prius habeamus. 
+At moralis philosophia animæ & affectuum malorum mediatrix est. 
+Præterea oportet moralem philosophum a naturali sumere, quæ sint animæ facultates, ut, quæ quibus subditæ esse debeant, & in quarum actione beatitudo posita sit, edoceat. 
+Quapropter Aristoteles in formandâ morum scientiâ Physiologiam sæpe adhibet.
+
+XXIII. Cursus Philosophiæ spatio trienni commodè absolvi potest, si fundamentum Philologiæ bene sit iactum in pædagogeo.
+
+Nam primo sesquianno absolvi potest philosophia theoretica; altero, practica. 
+Atque ita suprema aliqua facultas eligi potest, cui te totum consecres. 
+Nam tres superiores facultates, Theologia, Iurisprudentia, & Medicina, doctrinæ ordine sunt posteriores ipsâ philosophiâ: quippe cum illæ utantur huius terminis & principiis. 
+Si vero aliquis vitæ philosophicæ genus elegerit, ut facultatem istam docere velit, non suffecerit triennium, quâ de re in Didacticis.
+
+XXIV. Inter tres superiores facultates duplex imprimis ordo attenditur.
+
+Prior ordo est dignitatis, quam istæ facultates obtinent ratione hominis, ut est homo, cuius perfectio pendet à bonis animæ, corporis, & fortunæ, ut vocant. 
+Atque hâc ratione primas tenet Theologia, secundas Medicina, tertias Iurisprudentia. 
+Posterior ordo est dignitatis, quam illæ ipsæ facultates obtinent ratione hominis, ut est pars societatis. 
+Et cum Iurisprudentia primum locum obtinet; quia defendit Theologiam & Medicinam.
+
+XXV. Inter artes mechanicas ordo naturæ, & dignitatis eodem modo constitui debet, ut inter artes liberales.
+
+Nam ordine naturæ priores sunt illæ artes mechanicæ, quæ sunt simpliciores, id est, quarum principia sunt simpliciora. 
+Deinde illæ sunt digniores, quarum subiecta, & fines præstant. 
+Quod attinet ad ordinem inventionis, ille colligi debet ex Chronologiâ.
+
+XXVI. Inter farragines disciplinarum ordo pendet a duobus principiis.
+
+Primum est eiusmodi: Farragines disciplinarum sunt priores, quæ sunt propiores disciplinis homogeneis. 
+Nam & illæ sunt disciplinæ propriæ dictæ. 
+Quo quidem nomine censentur istæ quatuor: Mnemonica, Historica, Chronologia, & Architectonica. 
+Secundum principium est: Farragines disciplinarum, quæ non sunt insignite nomine disciplinarum propriè dictarum, priores censentur, a quibus aliarum notitia pendet. 
+Ita si conferas inter se Alchymiam, & Kabbalamiâ, illa pendet ab hâc.
+
+PERORATIO TECHNOLOGIÆ.
+
+Talis est Technologia, secunda pars alphabeti Cyclopædæutici; quæ nobis exhibet latifundij nostri provincias, earumque cognitionem, & distinctionem. 
+Quam nisi quis animo præconceperit suo, fieri non potest, ut cum affectu vel profectu versetur in disciplinarum studio. 
+Quomodo enim, amabo, disciplinam amabis & admirabere, cuius sedem in regno hoc ignoras? 
+Quomodo insuper cum fructu discas illam disciplinam, cuius affectiones, convenientiam, & differentiam non tenes?
+
+Schematismus Technologiae
+
+Technologia
+├── Generalis explicat disciplinarum
+│   ├── Proprietates. cap. 1.
+│   ├── Ordinem. cap. 2.
+│   └── Divisiones generales. cap. 3.
+└── Specialis edisserit numerum disciplinarum. cap. 4.
