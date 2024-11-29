@@ -19,7 +19,7 @@ print('''<!DOCTYPE html>
 <title>Document</title>
 <style>
     body {
-        background: #fff6d5;
+        # background: #fff6d5;
     }
     table {
         border-collapse: separate; 
