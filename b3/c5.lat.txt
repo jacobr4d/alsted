@@ -1,0 +1,69 @@
+CAPVT V.
+De proprietatibus principiorum cognitionis.
+
+PRÆCEPTA.
+
+HVCVSQVE de principiis essentiæ disciplinarum: iam de principiis cognitionis, è quibus deducuntur conclusiones disciplinarum.
+
+Principia cognitionis hic considerantur quantum ad proprietates, normam, & diuisiones generales.
+
+Proprietates principiorum cognitionis sunt numero quatuor: veritas, necessitas, claritas, & facilitas.
+
+Veritas est, quà principia in se vera sunt, adeo quidem, ut ex iis aliarum rerum veritas colligi possit.
+
+Necessitas est, quà principia ita vera sunt, ut gignant scientiam.
+
+Claritas est, quà principia sunt notiora conclusionibus, & quidem primò & immediatè.
+
+Facilitas est, quà principia facillimè possunt cognosci, & faciunt ut alia facilè cognoscantur.
+
+REGVLÆ.
+
+I. Principia essendi etiam possunt esse principia cognoscendi; sed non contrà.
+
+Nam principium cur res sit, etiam est principium cur res cognoscatur: quia cognitio rei debet esse proportionata essentiæ. 
+Sed principium, cur res cognoscatur, non statim est principium cur res sit: quia rei essentia non pendet à nostra intelligentia.
+
+II. Principia cognoscendi mole sunt parva, virtute maxima.
+
+SVnt enim velut semina, quibus ipsæ res insunt virtualiter.
+Quemadmodum itaque semen minimum potest arborescere: ita principium minimum infinitarum conclusionum potest esse feracissimum.
+Magni ergo faciamus principia sciendi, neque quantitate, sed virtute illa æstimenus.
+Vetus id proverbium iubet: ἀρχὴ δὲ τοῦ ἡμίσεος παντός.
+Addit Plato, ὀλίγοις ἐρανοῦ μέγιστον εἶναι.
+Alij, ut testatur Galenus 9. dogmat. 1. dicebant principium esse τι μᾶλλον δύναμει.
+
+III. Principia κυρίως ita dicta, oportet esse vera.
+
+Principia κυρίως, sive primario dicta, sunt, quæ suâ naturâ sunt principia, non autem ex conventione.
+Hæc talia principia debent esse vera.
+Nam id, per quod, vera cognoscimus, verissimum esse oportet, juxta totum illud: Propter quod unumquodque tale est, id magis tale est.
+Et ex falso verum per se non concluditur.
+Hinc recte dici solet: Principiæ sunt unà copulativa: hoc est, adamantino nexu inter se cohærent, sive sint naturalia sive supernaturalia, sive theoretica sive practica.
+Ex quo porrò consequitur illud, principia non esse sibi invicem contraria.
+Ideò quidquid verum est in unâ facultate, non potest falsum esse in alterâ.
+Graviter igitur hallucinantur, qui semper in ore habent illud: Hoc verum est philosophicè, sed falsum theologicè.
+Item: Hoc sequitur per philosophiam, destruitur per theologiam.
+Hoc quidem verum est, multos fidei articulos, quos Scaliger eruditè vocat cardines religionis nostræ, esse contra rationem corruptam & distortam: sed quid hoc accidens attinet ad ipsam rei naturam atque essentiam?
+
+IV. Principia κυρίως dicta, oportet esse necessaria.
+
+Nam principia debent ita esse comparata, ut gignant scientiam conclusionis, ut appellant, id est, habitum immotum, qui Graecis dicitur ἀμετάπτωτος ἐπιστήμη: non autem pendulum assensum, qui est opinio.
+Iam vero scientia est rerum necessariarum, opinio contingentium.
+Quidquid ergò contingens est, non potest gignere scientiam.
+
+V. Principia κυρίως dicta, oportet esse priora & notiora conclusione, & causas cur sit, & cognoscatur conclusio, easque immediatas seu primas, & proximas in suo genere.
+Proinde principia etiam sunt facilia.
+
+Principia recte dicuntur semina conclusionum, itemque mensurae conclusionum, & eæ quidem mensurantes seu activae, id est tales, ut mensurent suas conclusiones, neque ab iis mensurentur.
+Nam principia debent conclusioni lucem adferre atque ita esse comparata, ut ex iis dogmata plane deduci possint.
+Necesse igitur est, ut sint priora & notiora conclusione.
+Hinc dici solet: Principia sunt cognita. 
+Item: Principia sunt confessa.
+Quæ igitur sunt incerta, incognita, inconcessa & controversa, nec utrique dissentientium parti communia, hactenus principia non dicentur.
+Ideò recte dicitur: Oportet disputantes in certis convenire principiis.
+Porro si inter principia & conclusionem alia sint media; ea potius, utpote priora, pro principiis ducenda forent.
+Non autem poterunt principia duci in infinitum; sed ad primum aliquod subsistendum est, supra quod non ascendatur.
+Cæterum principia debent esse prima in suo genere, non autem simpliciter.
+Dantur enim gradus prioritatis inter principia, ita quidem, ut eadem & principia & dogmata sint sive conclusiones & veluti post principia: prout nempe eadem aliàs inferunt, aliàs inferuntur ex aliis.
+Atque hæ sunt quatuor proprietates sive requisita principiorum, quæ alij multiplicant, & dicunt principia debere esse vera, immediata, priora, notiora, & causas omnium dogmatum.
