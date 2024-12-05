@@ -1,0 +1,113 @@
+CHAPTER VII.  
+General Divisions of Principles.
+
+PRECEPTS.
+
+The divisions of principles follow, general or common, fourteen in number, in this order.
+
+I. Principles are simple or complex.  
+Simple principles are the first terms of disciplines, insofar as they are considered outside of arrangement: e.g. being, essence, good, virtue, justice.  
+Complex principles are axioms from which conclusions are deduced: as, What you do not wish to be done to you, do not do to another.  
+
+II. Principles of cognition are such by themselves, or by accident.  
+The former are called principles primarily, the latter secondarily.  
+Principles by themselves are those which by their own force and nature are related to the principle or conclusion: as, It is impossible for the same thing to be and not to be.  
+Principles by accident are those which are referred to the conclusion with a certain extrinsic and accidental respect: such as those which are called postulates.  
+
+III. Principles are natural or supernatural.  
+Natural principles depend on the light of right reason: or on the law of divine creation and governance: as, The whole is greater than any part of itself.  
+
+Supernatural principles depend on the general revelation of God: as, Christ is our savior by merit and efficacy.  
+
+IV. Principles are immediate or mediate.  
+Immediate are those which have no other medium or principle by which they can be demonstrated a priori: as, God is.
+
+Mediate are those which can be demonstrated from the principles of a higher science: as, Optical principles are demonstrated from geometrical principles.  
+These can be called post-principles.
+
+V. Principles are innate, acquired, or infused.  
+Innate are those which man knows by the force of the intellect acting within him: as, Every whole is greater than its part.  
+These are elegantly called by Scaliger zopyra: by others, the seeds of eternity.
+
+Acquired are those which man learns by his own study: indeed either by instruction: as, Every circle consists of 360 degrees or parts. or by experience, as, Fish in certain places are black.
+
+Infused are those which God inspires.
+
+VI. Principles are common or proper.  
+Common principles are those whose use many disciplines claim for themselves: such as the principles of Metaphysics and Logic.
+
+Proper principles are those whose use pertains to only one discipline: such as the principles of Physics.
+
+VII. Principles are real or notional.  
+Real principles are those which are founded immediately in the thing itself; and are otherwise called protonoematic: such as the principles of Physics.
+
+Notional principles are those which are founded on the comparison of things; and are otherwise called deuteronoematic principles: such as the principles of Logic and some Astronomical principles.
+
+VIII. Principles are either most known in themselves, or most known to us.  
+Most known in themselves are those which are most certain by their nature: such as, God is.
+
+Most known to us are those which are most certain with respect to us: such as, The sun shines.  
+For this is known by the senses.
+
+IX. Principles are most general or subordinate.  
+
+Most general principles are those which are principles in such a way that they are not conclusions.  
+Such are either absolutely: as is this one, It is impossible for the same thing to be and not to be: or in a certain respect; in which sense, every discipline has some most general principle.  
+Thus in Arithmetic, the most general principle is: Unity is the root and measure of every number.
+
+Subordinate principles are those which are principles in such a way that they are also conclusions.
+
+X. Principles are either truly and in themselves principles, or by convention.  
+Principles which are truly and in themselves principles are most worthy: hence they are also called dignities, likewise truths.  
+These two terms are very commonly used by Scholastics.
+
+Principles by convention are those which are supposed for the sake of disputing or teaching: such as hypotheses.  
+To this pertains the division of principles into counter-suppositions and hypotheses.
+
+XI. Principles are natural (φυσικά) or positive (θετικά). Arist. 1. Posterior Analytics, towards the end.
+
+Natural (φυσικά) principles are those to which the human intellect assents by native propriety without lengthy explanation: such as, The whole is greater than its part, Parents are to be honored.  
+Aristotle calls these innate powers (δυναμεις συμφυτας).  
+Damascenus from ancient philosophers calls them common notions (κοιναὶ ἔννοιαι).  
+Others call them natural apprehensions (καταληπτικαὶ φυσικαὶ).  
+The Stoics call them preconceptions, anticipations, and natural inclinations.
+
+Positive (θετικά) principles are those either revealed by God or established in disciplines to make known and prove their conclusions.  
+Aristotle calls these theses, just as he calls natural principles demands (αἰτήματα).  
+Sturm elegantly calls axioms honorary declarations.
+
+Positive principles include definitions, hypotheses, and postulates.
+
+Definitions are those which explain a thing by genus and differentia: such as, Man is a rational animal.
+
+Hypotheses are those, which although they have a demonstration, are assumed without demonstration: otherwise called conceded propositions: such as, All angles opposite by a cross are equal.
+
+Postulates, called demands (αἰτήματα) by the Greeks, are propositions upon which the practitioner makes some agreement with the auditor: such as, To describe a circle with any center and interval.  
+Otherwise called requests.
+
+XII. Principles are primitive or derivative.  
+The former are simply first; the latter are not.
+
+XIII. Principles are confessed or doubtful.  
+The former shine with their own light; the latter have light but do not show it at first glance.
+
+XIV. Principles are regulative or regulated.  
+The former govern the arrangement of art and action; the latter do not.
+
+RULES.
+
+I. The principle of cognition is an analogous genus.
+
+That is, it has under it such species to which it is attributed unequally.  
+For example, innate principles are more principles than postulates, and those principles that exist per se are more principles than those by accident.  
+Just as substance is the measure of the accident, so more dignified principles are the measures of the less dignified.
+
+II. Simple principles are either things or simple concepts; complex are complete sentences.
+
+This is the first and highest division of the principle, whether it is simple or complex.  
+For we progress from simple to composite.  
+There are, however, two kinds of simple principles.  
+First, there are things that lead us into the knowledge of others; then there are concepts or simple notions in the mind that depend on things.  
+Thus God is the first name, and I am is the first verb.  
+Therefore, these are called the first simple principles.  
+Complex principles are called axioms, in the broad sense of the word, as the Stoics use it.

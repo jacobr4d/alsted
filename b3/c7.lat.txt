@@ -1,0 +1,113 @@
+CAPVT VII.  
+Generales principiorum divisiones.
+
+PRAECEPTA.
+
+Sequuntur divisiones principiorum, generales, seu communes, numero XIV. hoc ordine.
+
+I. Principia sunt incomplexa, vel complexa.  
+Principia incomplexa sunt termini primi disciplinarum, quatenus considerantur extra dispositionem: v.g. ens, essentia, bonum, virtus, justitia.  
+Principia complexa sunt axiomata, ex quibus deducuntur conclusiones: ut, Quod tibi non vis fieri, alteri ne feceris.  
+
+II. Principia cognitionis sunt talia per se, vel per accidens. 
+Illa primario, haec secundario dicuntur principia.  
+Principia per se sunt, quae sua propria vi et natura referuntur ad principatum sive conclusionem: ut, Impossibile est idem esse, & non esse.  
+Principia per accidens sunt, quae ad conclusionem referuntur respectu quodam extrinseco & accidentario: qualia sunt illa, quae dicuntur postulata.  
+
+III. Principia sunt naturalia, vel supernaturalia.  
+Naturalia pendent à lumine rectae rationis: sive à lege creationis & gubernationis divinae: ut, Totum est maius qualibet parte sua.  
+
+Supernaturalia pendent à generali patefactione divina: ut, Christus est servator noster merito, & efficacia.  
+
+IV. Principia sunt immediata, vel mediata.  
+Immediata sunt, quae non habent aliud medium seu principium, per quod à priori demonstrentur: ut, Deus est.
+
+Mediata sunt, quae possunt demonstrari ex principiis superioris scientiae: ut, Principia Optica demonstrantur ex principiis Geometricis.  
+Haec possunt dici postprincipia.
+
+V. Principia sunt innata, acquisita, vel infusa.  
+Innata sunt, quae homo novit vi intellectus in se agentis: ut, Omne totum maius est suâ parte.  
+Haec Scaligero eleganter dicuntur zopyra: aliis, semina aeternitatis.
+
+Acquisita sunt, quae homo proprio studio addiscit: & quidem vel per institutionem: ut, Omnis circulus constat gradibus sive partibus 360. vel per experientiam, ut, Pisces quibusdam in locis sunt atri.
+
+Infusa sunt, quae Deus inspirat.
+
+VI. Principia sunt communia, vel propria.  
+Communia sunt, quorum usum multae disciplinae sibi vindicat: ut sunt principia Metaphysica & Logica.
+
+Propria sunt, quorum usus ad unam duntaxat disciplinam pertinet: ut sunt principia Physica.
+
+VII. Principia sunt realia, vel notionalia.  
+Realia sunt, quae fundantur immediate in ipsâ re; & dicuntur alias protonoematica: ut sunt principia Physica.
+
+Notionalia sunt, quae fundantur in collatione rerum; & aliter dicuntur principia deuteronoematica: qualia sunt principia Logica, & quaedam Astronomica.
+
+VIII. Principia sunt vel notissima in se, vel notissima nobis.  
+Notissima in se sunt, quae suâ naturâ sunt certissima: ut, Deus est.
+
+Notissima nobis sunt, quae respectu nostri sunt certissima: ut, Sol lucet.  
+Hoc enim sensu cognoscitur.
+
+IX. Principia sunt generalissima, vel subalterna.  
+
+Generalissima sunt, quae ita sunt principia, ut non sint conclusiones.  
+Sunt autem talia vel simpliciter: ut est unum illud, Impossibile est idem esse & non esse: vel secundum quid; quo sensu omnis disciplina habet generalissimum aliquod principium.  
+Sic in Arithmetica generalissimum est illud: Unitas est radix omnis numeri & mensura.
+
+Subalterna sunt, quae ita sunt principia, ut etiam sint conclusiones.
+
+X. Principia sunt vel vere & in se principia, vel ex conventione.  
+Principia quae vere & in se sunt principia, sunt dignissima: unde et dignitates dicuntur, item veritates.  
+Qui duo termini Scholasticos admodum sunt usitati.
+
+Principia ex conventione sunt, quae disputandi vel docendi causa supponuntur: ut sunt hypotheses.  
+Huc pertinet distributio principiorum in ἀνθυπόθετα & ὑποθέσεις.
+
+XI. Principia sunt φυσικά, vel θετικὰ. Arist. 1. post. sub finem.
+
+Φυσικὰ sunt, quibus intellectus humanus nativa proprietate assentitur sine prolixiore declaratione: ut, Totum est maius suâ parte, Parentes sunt colendi.  
+Haec Aristoteles vocat δυναμεις συμφυτας. 
+Damascenus ex veteribus philosophis κοιναὶ ἔννοιαι. 
+Alii καταληπτικαὶ φυσικαὶ. 
+Stoici προλήψεις, anticipationes & inclinationes naturales.
+
+Θετικὰ sunt, quae vel a Deo revelata sunt, vel in disciplinis ponuntur ad earum conclusiones notificandas & probandas.  
+Haec Aristoteles vocat theses, sicut principia φυσικὰ vocat αἰτήματα. 
+Sturmus axiomata eleganter vocat pronunciata honoraria.
+
+Principia thetica sunt definitiones, hypotheseis, & postulata.
+
+Definitiones sunt, quae rem genere & differentia explicant: ut, Homo est animal rationale.
+
+Hypotheseis sunt, quae etsi demonstrationem habent, tamen sine demonstratione ponuntur: alias dicuntur propositiones concessae: ut, Omnes anguli per crucem oppositi sunt aequales.
+
+Postulata, Graecis αἰτήματα, sunt propositiones, de quibus artifex cum auditore aliquamdiu paciscitur: ut, Ad quoduis centrum & intervallum describere circulum.  
+Alias dicuntur petitiones.
+
+XII. Principia sunt primitiva, vel derivativa.  
+Illa sunt simpliciter prima: haec non item.
+
+XIII. Principia sunt confessa, vel dubia.  
+Illa suâ luce coruscant: haec lucem habent, sed non ostendunt primâ fronte.
+
+XIV. Principia sunt regulativa, vel regulata.  
+Illa gubernant dispositionem artis, & actionem: haec non item.
+
+REGULAE.
+
+I. Principium cognitionis est genus analogicum.  
+
+Id est, habet sub se tales species, quibus tribuitur inaequaliter.  
+Nam, v.g. principia innata magis sunt principia quam postulata: & quae per se sunt principia, magis sunt principia quam illa per accidens.  
+Quemadmodum igitur substantia est mensura accidentis: sic principia digniora sunt mensurae minus digniorum.
+
+II. Principia incomplexa sunt vel res, vel conceptus simplices: complexa sunt integrae sententiae.
+
+Prima et altissima haec est principii divisio, quod sit incomplexum vel complexum.  
+Nam a simplicibus progredimur ad composita.  
+Sunt autem duplicia principia incomplexa.  
+Primo sunt res, quae nos in notitiam aliorum deducunt; deinde sunt conceptus seu notiones in mente simplices, quae pendent a rebus.  
+Sic Deus est primum nomen, & Sum est primum verbum.  
+Ideo haec dicuntur principia prima incomplexa.  
+Principia complexa vocantur axiomata, late accepto vocabulo, uti Soici illud umunt.
